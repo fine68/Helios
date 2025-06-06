@@ -1,0 +1,1247 @@
+[
+  {
+    "instruction": "Explain the term: Artificial Intelligence (AI)",
+    "input": "",
+    "output": "Artificial Intelligence refers to the development of computer systems capable of performing tasks that typically require human intelligence, such as perception, reasoning, learning, decision-making, and language understanding. AI systems can operate under varying and unpredictable circumstances and may improve their performance through experience and data analysis."
+  },
+  {
+    "instruction": "Explain the term: Intellectual Property (IP) Rights",
+    "input": "",
+    "output": "Intellectual property rights are legal protections granted to creators and owners of inventions, designs, and proprietary information, including software and technical data. In the context of defense acquisitions, IP rights determine the extent to which the government or contractors may use, modify, or share technology developed for military applications."
+  },
+  {
+    "instruction": "Explain the term: Autonomous Systems",
+    "input": "",
+    "output": "Autonomous systems are machines or platforms that can perform tasks or make decisions without direct human intervention, often using AI algorithms. In military applications, these include drones, robotic vehicles, and weapon systems capable of independent operation in dynamic environments."
+  },
+  {
+    "instruction": "Explain the term: Emittance",
+    "input": "",
+    "output": "Emittance is the ratio of the radiant energy emitted by a surface to the energy emitted by a black body at the same temperature. It is a dimensionless property that quantifies how effectively a surface emits thermal radiation."
+  },
+  {
+    "instruction": "Explain the term: Incompressible Fluid",
+    "input": "",
+    "output": "An incompressible fluid is a fluid whose density remains constant regardless of changes in pressure or temperature. This assumption simplifies the analysis of fluid dynamics, particularly in applications involving liquids or low-speed gas flows."
+  },
+  {
+    "instruction": "Explain the term: Radiometric Units",
+    "input": "",
+    "output": "Radiometric units are measurement units used to quantify the total energy of electromagnetic radiation, regardless of its effect on human vision. They are based on physical quantities such as joules (energy) and watts (power)."
+  },
+  {
+    "instruction": "Explain the term: Radiative Forcing",
+    "input": "",
+    "output": "Radiative forcing is the change in energy flux in the atmosphere due to factors such as greenhouse gas concentrations, typically measured in watts per square meter (W/m²), and is used to assess the influence of these factors on Earth's climate."
+  },
+  {
+    "instruction": "Explain the term: Selective Surface",
+    "input": "",
+    "output": "A material or coating applied to the absorber plate of a solar collector that has high absorptance for solar (short-wave) radiation and low emittance for thermal (long-wave) radiation, thereby maximizing solar energy absorption while minimizing heat loss through radiation."
+  },
+  {
+    "instruction": "Explain the term: Selective Surface",
+    "input": "",
+    "output": "A selective surface is a material or coating applied to solar thermal absorbers that has high absorptance for solar radiation and low emittance for thermal infrared radiation. This selectivity enhances the efficiency of solar collectors by maximizing energy absorption while minimizing heat loss."
+  },
+  {
+    "instruction": "Explain the term: Curve Factor (Fill Factor, Fᶜ)",
+    "input": "",
+    "output": "The curve factor, also known as the fill factor, is the ratio of the maximum obtainable power from a solar cell to the product of its open-circuit voltage (Voc) and short-circuit current (Isc). It quantifies how closely the actual I–V characteristic approaches the ideal rectangular shape, with higher values indicating better performance."
+  },
+  {
+    "instruction": "Explain the term: Pelton Wheel",
+    "input": "",
+    "output": "A Pelton wheel is a type of impulse water turbine used for hydroelectric power generation. It consists of a wheel with multiple bucket-shaped cups around its rim, which are struck by high-velocity water jets, converting the kinetic energy of the water into rotational mechanical energy."
+  },
+  {
+    "instruction": "Explain the term: Actuator Disc Model",
+    "input": "",
+    "output": "The actuator disc model is a simplified analytical representation of a wind turbine, in which the rotor is modeled as an infinitely thin disc that extracts energy from the wind by imposing a pressure drop and reducing the wind’s velocity, facilitating theoretical analysis of energy extraction and flow dynamics."
+  },
+  {
+    "instruction": "Explain the term: Capacity Credit",
+    "input": "",
+    "output": "Capacity credit is the amount of conventional power generation capacity that can be replaced or displaced by the addition of a variable renewable energy source, such as wind power, while maintaining system reliability. It reflects the contribution of a renewable source to meeting peak demand, accounting for its variability."
+  },
+  {
+    "instruction": "Explain the term: Biofuels",
+    "input": "",
+    "output": "Biofuels are fuels produced from biomass through chemical or biological processes. They include substances such as ethanol, biodiesel, methane, and charcoal, and serve as renewable alternatives to fossil fuels, particularly for transportation and energy generation."
+  },
+  {
+    "instruction": "Explain the term: Biogas",
+    "input": "",
+    "output": "Biogas is a mixture of gases, mainly methane (CH₄) and carbon dioxide (CO₂), produced by the anaerobic decomposition of organic matter. It can be used as a renewable fuel for heating, electricity generation, or as a vehicle fuel."
+  },
+  {
+    "instruction": "Explain the term: Significant Wave Height (Hs)",
+    "input": "",
+    "output": "Significant wave height is a statistical measure of the average height of the highest one-third of waves observed in a sea state. It is commonly used to characterize the overall wave conditions and is defined as four times the root mean square (rms) value of the water surface elevation."
+  },
+  {
+    "instruction": "Explain the term: Carnot Efficiency",
+    "input": "",
+    "output": "Carnot efficiency is the theoretical maximum efficiency of a heat engine operating between two temperatures, defined as the ratio of the temperature difference between the hot and cold reservoirs to the absolute temperature of the hot reservoir. It represents the upper limit on the efficiency that any heat engine can achieve according to the second law of thermodynamics."
+  },
+  {
+    "instruction": "Explain the term: Thermal Conductivity",
+    "input": "",
+    "output": "Thermal conductivity is a material property that measures the ability of a material to conduct heat. It is defined as the quantity of heat transmitted through a unit thickness in a direction normal to a surface of unit area, due to a unit temperature gradient under steady-state conditions, and is measured in watts per meter per kelvin (W·m⁻¹·K⁻¹) or equivalently in joules per meter per second per kelvin (J·m⁻¹·s⁻¹·K⁻¹)."
+  },
+  {
+    "instruction": "Explain the term: Induction generator (asynchronous generator)",
+    "input": "",
+    "output": "An induction generator, also called an asynchronous generator, is an electrical machine that generates electricity when its rotor is driven faster than the synchronous speed of the stator's rotating magnetic field. It is commonly used in renewable energy applications, such as wind turbines, due to its robustness, simplicity, and ability to operate without a separate excitation system."
+  },
+  {
+    "instruction": "Explain the term: Levelised Cost of Electricity (LCOE)",
+    "input": "",
+    "output": "Levelised Cost of Electricity is the average cost per unit of electricity generated, calculated by dividing the total lifetime costs of a power plant (including capital, operation, maintenance, and fuel) by the total electricity produced over its lifetime, typically discounted to present value."
+  },
+  {
+    "instruction": "Explain the term: Bernoulli's Equation",
+    "input": "",
+    "output": "Bernoulli's equation is a fundamental principle in fluid dynamics that relates the pressure, velocity, and height at different points along a streamline for an incompressible, frictionless fluid. It expresses the conservation of mechanical energy in flowing fluids."
+  },
+  {
+    "instruction": "Explain the term: Thermal Conductivity",
+    "input": "",
+    "output": "Thermal conductivity is a physical property of a material that describes its ability to conduct heat, typically measured in watts per meter per kelvin (W/m·K)."
+  },
+  {
+    "instruction": "Explain the term: Liquefied Petroleum Gas (LPG)",
+    "input": "",
+    "output": "Liquefied Petroleum Gas (LPG) is a mixture of hydrocarbon gases, primarily propane and butane, that is stored in liquid form under pressure and commonly used as fuel for heating, cooking, and in some vehicles."
+  },
+  {
+    "instruction": "Explain the term: Photovoltaic Cells (PVCs)",
+    "input": "",
+    "output": "Photovoltaic cells are semiconductor devices that convert sunlight directly into electricity through the photovoltaic effect, providing a clean and renewable source of electrical energy for various applications."
+  },
+  {
+    "instruction": "Explain the term: Lignocellulosic Materials",
+    "input": "",
+    "output": "Lignocellulosic materials are plant-based biomass composed primarily of cellulose, hemicellulose, and lignin. These materials are abundant in agricultural residues, forestry wastes, and energy crops, making them important feedstocks for bioenergy and biofuel production."
+  },
+  {
+    "instruction": "Explain the term: Modal Split",
+    "input": "",
+    "output": "Modal split refers to the distribution of different types of transportation modes used by people within a specific area or for a particular journey. It is commonly expressed as a percentage or proportion of total trips made by each mode, such as private cars, buses, bicycles, or walking."
+  },
+  {
+    "instruction": "Explain the term: Alcohol Fuels (Ethanol and Methanol)",
+    "input": "",
+    "output": "Alcohol fuels refer to ethanol and methanol, which are liquid biofuels produced from the fermentation or gasification of organic materials such as sugarcane, cassava, wood, or agricultural waste. They can be used as alternatives to petroleum fuels in modified or unmodified internal combustion engines."
+  },
+  {
+    "instruction": "Explain the term: Reticulated Water",
+    "input": "",
+    "output": "Reticulated water refers to a water supply that is distributed through a network of pipes, typically managed by a municipal or government authority, providing households and businesses with treated, potable water on demand."
+  },
+  {
+    "instruction": "Explain the term: Biogas",
+    "input": "",
+    "output": "Biogas is a renewable energy source produced by the anaerobic digestion of organic matter, such as agricultural waste, manure, municipal waste, or sewage. It is primarily composed of methane and carbon dioxide and can be used for heating, electricity generation, or as a fuel for vehicles."
+  },
+  {
+    "instruction": "Explain the term: Industrial Wood By-products and Residues",
+    "input": "",
+    "output": "Industrial wood by-products and residues are secondary materials generated during wood processing and manufacturing, including bark, sawdust, wood chips, and grinding dust. These materials can be utilized as feedstock for energy generation or further processed into products like pellets or briquettes."
+  },
+  {
+    "instruction": "Explain the term: Wood Pellets",
+    "input": "",
+    "output": "Wood pellets are a type of refined biofuel made from compressed organic matter or biomass, typically sawdust and wood shavings. They are commonly used as a renewable energy source for heating and electricity generation due to their high energy density and standardized size."
+  },
+  {
+    "instruction": "Explain the term: Generation IV Nuclear Power Plant (NPP)",
+    "input": "",
+    "output": "Generation IV nuclear power plants refer to the next generation of nuclear reactor designs that aim to improve safety, efficiency, sustainability, and cost-effectiveness compared to earlier generations, often incorporating advanced materials and innovative cooling systems."
+  },
+  {
+    "instruction": "Explain the term: Adiabatic Storage",
+    "input": "",
+    "output": "Adiabatic storage refers to a type of energy storage system where the heat generated during the compression of air is also stored and later returned to the air during expansion, improving the overall efficiency of the energy storage cycle."
+  },
+  {
+    "instruction": "Explain the term: Thermal Conductivity",
+    "input": "",
+    "output": "Thermal conductivity is a material property that quantifies the ability of a substance to conduct heat. It is defined as the amount of heat transferred per unit time, per unit area, per unit temperature gradient. High thermal conductivity materials efficiently transfer heat, while low thermal conductivity materials serve as insulators. Thermal conductivity often varies significantly with temperature, especially at cryogenic conditions."
+  },
+  {
+    "instruction": "Explain the term: Intermittent Renewable Energy",
+    "input": "",
+    "output": "Intermittent Renewable Energy describes power sources, such as wind and solar, whose output is not constant due to varying environmental conditions. These sources produce electricity only when conditions are favorable, leading to challenges in matching supply with demand."
+  },
+  {
+    "instruction": "Explain the term: Photovoltaic (PV) Solar Power",
+    "input": "",
+    "output": "Photovoltaic solar power is a method of generating electricity by converting sunlight directly into electrical energy using semiconductor materials, typically silicon-based solar cells."
+  },
+  {
+    "instruction": "Explain the term: Electrolysis",
+    "input": "",
+    "output": "Electrolysis is a process that uses electrical energy to drive a non-spontaneous chemical reaction, such as splitting water into hydrogen and oxygen gases, commonly used for producing hydrogen in renewable energy storage systems."
+  },
+  {
+    "instruction": "Explain the term: Light-Water Reactor (LWR)",
+    "input": "",
+    "output": "A light-water reactor is a type of thermal nuclear reactor that uses ordinary water as both a coolant and a neutron moderator. LWRs are the most common type of nuclear reactor in use worldwide, including both pressurized water reactors (PWRs) and boiling water reactors (BWRs)."
+  },
+  {
+    "instruction": "Explain the term: International Renewable Energy Agency (IRENA)",
+    "input": "",
+    "output": "The International Renewable Energy Agency is an intergovernmental organization that supports countries in their transition to a sustainable energy future by promoting the widespread adoption and sustainable use of all forms of renewable energy."
+  },
+  {
+    "instruction": "Explain the term: Magnesium Battery",
+    "input": "",
+    "output": "A type of rechargeable battery that uses magnesium ions as the charge carrier instead of lithium. Magnesium batteries are considered safer and less prone to dendrite formation, but have traditionally faced challenges with energy storage capacity and ion mobility."
+  },
+  {
+    "instruction": "Explain the term: Superconducting Magnetic Energy Storage (SMES)",
+    "input": "",
+    "output": "Superconducting Magnetic Energy Storage (SMES) is an energy storage technology that stores electrical energy in the magnetic field created by the flow of direct current in a superconducting coil that has been cooled to a temperature below its superconducting critical temperature. SMES can release energy rapidly and is used for short-term, high-power applications such as grid stabilization."
+  },
+  {
+    "instruction": "Explain the term: Subsynchronous Damping Control (SSDC)",
+    "input": "",
+    "output": "Subsynchronous Damping Control is a technique used to mitigate subsynchronous oscillations in power systems, which can cause mechanical stress and instability, particularly in systems with long transmission lines or HVDC links."
+  },
+  {
+    "instruction": "Explain the term: Forced Outage Rate (FOR)",
+    "input": "",
+    "output": "Forced Outage Rate is a measure of the reliability of a power system component, representing the probability or frequency at which a system or equipment fails and is taken out of service unexpectedly, as opposed to scheduled maintenance outages."
+  },
+  {
+    "instruction": "Explain the term: Commutation Overlap Angle",
+    "input": "",
+    "output": "The commutation overlap angle is the period during which two or more valves in a converter are conducting simultaneously due to the presence of inductance in the circuit. This angle affects the shape and amplitude of harmonic currents and voltages produced by the converter."
+  },
+  {
+    "instruction": "Explain the term: Thyristor",
+    "input": "",
+    "output": "A thyristor is a solid-state semiconductor device with four layers of alternating N and P-type materials that acts as a switch, conducting when its gate receives a current trigger and continuing to conduct while the voltage across the device is forward-biased; it is widely used in power electronics for controlled rectification and switching."
+  },
+  {
+    "instruction": "Explain the term: Short-Circuit Ratio (SCR)",
+    "input": "",
+    "output": "Short-Circuit Ratio (SCR) is an index used in high-voltage direct current (HVDC) systems to measure the strength of an alternating current (AC) system connected to a converter station. It is defined as the ratio of the short-circuit capacity (in MVA) of the AC system at the converter bus to the rated DC power (in MW) of the HVDC link. A higher SCR indicates a stronger AC system, which is less susceptible to voltage disturbances and commutation failures."
+  },
+  {
+    "instruction": "Explain the term: Self-Excitation (of Synchronous Generators)",
+    "input": "",
+    "output": "Self-excitation in synchronous generators is a condition where the generator, due to excessive capacitive loading, can experience uncontrollable voltage rise as a result of negative field flux time constants, potentially leading to overvoltages and instability if not properly managed."
+  },
+  {
+    "instruction": "Explain the term: Heat Sink",
+    "input": "",
+    "output": "A heat sink is a passive thermal management device designed to dissipate heat away from electronic components or mechanical devices by increasing the surface area exposed to a cooling medium, such as air or liquid, thereby maintaining safe operating temperatures."
+  },
+  {
+    "instruction": "Explain the term: Paper-Insulated Mass-Impregnated Cable",
+    "input": "",
+    "output": "A paper-insulated mass-impregnated cable is a type of high-voltage cable used in HVDC systems, featuring multiple layers of special paper insulation impregnated with a viscous insulating compound. This design provides high dielectric strength and stability, making it suitable for both land and submarine installations."
+  },
+  {
+    "instruction": "Explain the term: Commutation Failure",
+    "input": "",
+    "output": "A malfunction in a power converter where the current fails to transfer from one phase or device to another as intended, often leading to operational disturbances or faults in HVDC systems."
+  },
+  {
+    "instruction": "Explain the term: HVDC (High Voltage Direct Current)",
+    "input": "",
+    "output": "High Voltage Direct Current (HVDC) is a technology used for the transmission of electrical power over long distances using direct current, rather than alternating current. HVDC systems are valued for their efficiency in reducing power losses and their ability to interconnect asynchronous power grids."
+  },
+  {
+    "instruction": "Explain the term: Extinction Angle (γ)",
+    "input": "",
+    "output": "The extinction angle in HVDC systems is the interval, measured in electrical degrees, between the instant when the current through a thyristor valve falls to zero and the next voltage reversal. Maintaining an adequate extinction angle is crucial for reliable commutation and to prevent commutation failures in converter stations."
+  },
+  {
+    "instruction": "Explain the term: Converter Station",
+    "input": "",
+    "output": "A converter station is a facility in an HVDC transmission system where electrical power is converted between alternating current (AC) and direct current (DC). It typically contains equipment such as rectifiers, inverters, and transformers, enabling the integration of HVDC lines with AC power grids."
+  },
+  {
+    "instruction": "Explain the term: Tip-Speed Ratio",
+    "input": "",
+    "output": "The tip-speed ratio is the ratio of the linear speed of the tip of a wind turbine blade to the wind speed. It is a key parameter affecting the aerodynamic efficiency and power output of a wind turbine, with optimal values depending on the turbine design and operating conditions."
+  },
+  {
+    "instruction": "Explain the term: Central Tower Receiver (CTR)",
+    "input": "",
+    "output": "A central tower receiver is a type of solar thermal power technology where an array of mirrors (heliostats) focuses sunlight onto a receiver mounted on a central tower, generating high-temperature heat for electricity production."
+  },
+  {
+    "instruction": "Explain the term: Renewable Energy Sources (RES)",
+    "input": "",
+    "output": "Renewable energy sources are energy resources that are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, geothermal heat, and biomass. They provide alternatives to fossil fuels and are considered more sustainable and environmentally friendly."
+  },
+  {
+    "instruction": "Explain the term: Central Tower Receiver (CTR) Technology",
+    "input": "",
+    "output": "Central tower receiver (CTR) technology, also known as solar power tower, is a type of CSP system where a large field of mirrors (heliostats) concentrates sunlight onto a central receiver mounted on a tower. The concentrated solar energy heats a working fluid, such as molten salt or thermic oil, which is then used to generate steam for electricity production."
+  },
+  {
+    "instruction": "Explain the term: Heliostat Field",
+    "input": "",
+    "output": "An array of movable mirrors that track the sun and reflect sunlight onto a central receiver in a solar power tower system, maximizing the collection of solar energy."
+  },
+  {
+    "instruction": "Explain the term: Minimum Generation Constraint",
+    "input": "",
+    "output": "Minimum generation constraint is the lowest output level at which a conventional power generator can operate continuously and stably, below which the generator cannot reduce its output without risking operational instability or shutdown, thus affecting the flexibility of the power system to accommodate variable renewable energy sources."
+  },
+  {
+    "instruction": "Explain the term: Load Management",
+    "input": "",
+    "output": "Load Management involves controlling and adjusting the demand for electricity on the power grid, typically through incentives, scheduling, or automated systems, to ensure a balanced and efficient use of electrical resources, especially during peak periods."
+  },
+  {
+    "instruction": "Explain the term: Low-E Windows",
+    "input": "",
+    "output": "Low-emissivity (Low-E) windows are energy-efficient windows with a microscopically thin, transparent coating that reflects infrared energy (heat) while allowing visible light to pass through. This reduces heat transfer, improving insulation and lowering energy costs for heating and cooling buildings."
+  },
+  {
+    "instruction": "Explain the term: Hydronic Electric System",
+    "input": "",
+    "output": "A hydronic electric system is a heating system that uses electricity to heat water, which is then circulated through pipes to radiators or underfloor heating systems to provide space heating."
+  },
+  {
+    "instruction": "Explain the term: Load Factor",
+    "input": "",
+    "output": "Load factor is a ratio that measures the efficiency of electricity usage over a specific period. It is calculated as the average load (or demand) divided by the peak load during that period. A higher load factor indicates a more consistent and efficient use of electrical capacity, while a lower load factor suggests significant fluctuations between peak and off-peak demand."
+  },
+  {
+    "instruction": "Explain the term: Optimum Start-Stop Control",
+    "input": "",
+    "output": "Optimum start-stop control is an automated process in which HVAC or other building systems are started or stopped at calculated times to ensure desired environmental conditions are achieved precisely when needed. This approach uses real-time monitoring and historical data to minimize energy waste and improve occupant comfort."
+  },
+  {
+    "instruction": "Explain the term: kVAh (Kilovolt-Ampere Hour)",
+    "input": "",
+    "output": "kVAh is a unit of apparent energy that represents the total amount of electrical energy supplied, accounting for both active (real) and reactive power; it is used in billing and system design to reflect the total capacity required to serve a customer, especially when loads have significant inductive or capacitive components."
+  },
+  {
+    "instruction": "Explain the term: Marginal Cost",
+    "input": "",
+    "output": "Marginal cost is the additional cost incurred by producing one more unit of a good or service. In electricity generation, it typically refers to the cost of generating an additional kilowatt-hour of electricity, including fuel, operation, and maintenance costs, but excluding fixed costs."
+  },
+  {
+    "instruction": "Explain the term: Long Term Fixed Price-Fixed Quantity Contracts",
+    "input": "",
+    "output": "Financial agreements in which a buyer and seller agree to exchange a specified quantity of a commodity, such as electricity, at a predetermined price for a set period. These contracts are used to hedge against price volatility and manage financial risks."
+  },
+  {
+    "instruction": "Explain the term: Commutator",
+    "input": "",
+    "output": "A commutator is a mechanical switching device attached to the rotor of a direct current (DC) machine, which periodically reverses the direction of current in the armature windings to ensure unidirectional torque production and enable continuous rotation."
+  },
+  {
+    "instruction": "Explain the term: Current-Source Inverter (CSI)",
+    "input": "",
+    "output": "A current-source inverter is a type of power electronic converter that converts a DC current source into an AC current output. It is commonly used to drive induction and synchronous motors, providing robust performance and inherent short-circuit protection."
+  },
+  {
+    "instruction": "Explain the term: Gas Discharge Lamp",
+    "input": "",
+    "output": "An electric light source that generates light by sending an electrical discharge through an ionized gas, often containing vaporized metals such as mercury or sodium. These lamps are categorized by the pressure of the gas and the type of gas or vapor used."
+  },
+  {
+    "instruction": "Explain the term: Mechanical Steam Compression (MSC)",
+    "input": "",
+    "output": "Mechanical steam compression is a process in which steam is mechanically compressed to increase its pressure and temperature, allowing it to be reused as a heating medium in industrial applications. This technique is widely used for concentrating solutions, drying, and reducing energy consumption by recycling latent heat."
+  },
+  {
+    "instruction": "Explain the term: Mechanical Vapor Compression Heat Pump",
+    "input": "",
+    "output": "A mechanical vapor compression heat pump is a type of heat pump that uses a mechanical compressor to circulate a refrigerant through a closed cycle, transferring heat from a low-temperature source to a higher-temperature sink. It is widely used for heating and cooling applications."
+  },
+  {
+    "instruction": "Explain the term: Magnetron",
+    "input": "",
+    "output": "A magnetron is a type of vacuum tube that generates microwaves by the interaction of a stream of electrons with a magnetic field. It is the key component in microwave ovens, enabling the rapid heating and cooking of food through microwave radiation."
+  },
+  {
+    "instruction": "Explain the term: Energy Simulation",
+    "input": "",
+    "output": "Energy simulation is the process of using computer-based models to predict the energy performance of buildings under various design scenarios and operating conditions. These simulations help evaluate the impact of design choices, system selection, and operational strategies on energy consumption and occupant comfort."
+  },
+  {
+    "instruction": "Explain the term: Marginal Cost",
+    "input": "",
+    "output": "The additional cost incurred by producing one more unit of a good or service, such as an extra kilowatt-hour of electricity, which is critical for pricing, investment, and operational decisions in utility management."
+  },
+  {
+    "instruction": "Explain the term: End-use Efficiency",
+    "input": "",
+    "output": "End-use efficiency refers to the effectiveness with which energy is converted into useful services, such as lighting, heating, or mechanical work, at the point of consumption. Improving end-use efficiency means using less energy to achieve the same level of service, typically through advanced technologies or optimized practices."
+  },
+  {
+    "instruction": "Explain the term: Load Management",
+    "input": "",
+    "output": "Load management refers to strategies and technologies used by electricity consumers or utilities to shift or reduce electrical load during peak demand periods. Techniques include demand controllers, load scheduling, and time-of-use pricing, which help reduce peak demand charges and improve overall system efficiency."
+  },
+  {
+    "instruction": "Explain the term: Top Gas Recovery Turbine",
+    "input": "",
+    "output": "A top gas recovery turbine is a device used in blast furnace operations to recover and convert the pressure and thermal energy of exhaust gases into electricity, thereby improving overall energy efficiency and reducing waste."
+  },
+  {
+    "instruction": "Explain the term: Supply curve (in energy efficiency context)",
+    "input": "",
+    "output": "A graphical representation that ranks energy efficiency or demand-side measures by their cost-effectiveness, showing the cumulative potential savings available at different cost levels, and allowing comparison with the costs of conventional supply-side resources."
+  },
+  {
+    "instruction": "Explain the term: Enhanced Oil Recovery (EOR)",
+    "input": "",
+    "output": "Enhanced Oil Recovery (EOR) is a technique used to increase the amount of crude oil that can be extracted from an oil field, often by injecting substances such as carbon dioxide into the reservoir to increase pressure and reduce oil viscosity, thereby improving extraction efficiency."
+  },
+  {
+    "instruction": "Explain the term: Power Electronics",
+    "input": "",
+    "output": "Power electronics is a field of electrical engineering focused on the efficient conversion, control, and conditioning of electric power using electronic devices, typically through static (non-mechanical) means. It enables the processing of substantial amounts of electrical energy for applications such as motor drives, power supplies, and renewable energy integration."
+  },
+  {
+    "instruction": "Explain the term: Power Factor (λ)",
+    "input": "",
+    "output": "Power factor is the ratio of active power to apparent power in an AC circuit, indicating the efficiency with which the current is being converted into useful work. It ranges from 0 to 1, with higher values representing more efficient power usage."
+  },
+  {
+    "instruction": "Explain the term: Direct Torque Control (DTC)",
+    "input": "",
+    "output": "Direct Torque Control is a method used in variable frequency drives to directly control the motor torque and flux by selecting optimal voltage vectors without the need for pulse width modulation, resulting in fast dynamic response and reduced complexity."
+  },
+  {
+    "instruction": "Explain the term: Short Circuit Ratio (SCR)",
+    "input": "",
+    "output": "The short circuit ratio (SCR) is a measure of the strength of an electrical grid or transformer, defined as the ratio of the available short-circuit current at a connection point to the rated current of the connected load or converter, indicating the system's ability to maintain voltage stability under load changes."
+  },
+  {
+    "instruction": "Explain the term: Active Filter",
+    "input": "",
+    "output": "An active filter is a power electronic device that dynamically compensates for unwanted harmonic currents or voltages in electrical power systems by injecting counteracting signals. It uses sensors, controllers, and power converters to improve power quality by reducing distortion and maintaining desired waveform characteristics."
+  },
+  {
+    "instruction": "Explain the term: Power Conditioning System (PCS)",
+    "input": "",
+    "output": "A power conditioning system is an electrical device or assembly that manages, modifies, or regulates the quality of electrical power delivered to a load. It is commonly used to connect distributed energy resources to an electrical grid, ensuring stable voltage, frequency, and power quality, especially in scenarios where the grid is isolated or operated in island mode."
+  },
+  {
+    "instruction": "Explain the term: Linear Modulation Range",
+    "input": "",
+    "output": "The linear modulation range is the operating region of a pulse-width modulated (PWM) inverter or converter where the output voltage is directly proportional to the modulation index, ensuring undistorted output without overmodulation."
+  },
+  {
+    "instruction": "Explain the term: Supervisory Control",
+    "input": "",
+    "output": "Supervisory control is a high-level control strategy in which a supervisory system oversees and coordinates the operation of lower-level controllers, making decisions based on system status and objectives to ensure safe and efficient operation, especially in complex or integrated systems."
+  },
+  {
+    "instruction": "Explain the term: System Identification Techniques",
+    "input": "",
+    "output": "System identification techniques are methods used to develop mathematical models of dynamic systems based on measured input and output data, enabling analysis, prediction, and control system design."
+  },
+  {
+    "instruction": "Explain the term: Alternative Trading Systems (ATSs)",
+    "input": "",
+    "output": "Alternative Trading Systems are non-exchange trading venues operated by broker-dealers that match buy and sell orders for securities according to established, non-discretionary methods. ATSs provide alternatives to traditional stock exchanges and include platforms such as electronic communication networks and dark pools."
+  },
+  {
+    "instruction": "Explain the term: High-Frequency Trading (HFT)",
+    "input": "",
+    "output": "High-Frequency Trading (HFT) refers to the use of sophisticated algorithms and high-speed computer systems to execute large volumes of trades at extremely fast speeds, often measured in microseconds or milliseconds. HFT strategies typically exploit small price discrepancies and rely on rapid order placement and cancellation to gain a competitive advantage in financial markets."
+  },
+  {
+    "instruction": "Explain the term: Pre-Trade Risk Controls",
+    "input": "",
+    "output": "Pre-Trade Risk Controls are risk management mechanisms implemented before trade execution to prevent excessive or erroneous orders, protect against market disruptions, and ensure compliance with regulatory and internal risk limits."
+  },
+  {
+    "instruction": "Explain the term: Shadow Price",
+    "input": "",
+    "output": "A shadow price is an estimated monetary value assigned to a good, service, or resource for which no market price exists, reflecting its true opportunity cost to society rather than its market price."
+  },
+  {
+    "instruction": "Explain the term: Rotation Length",
+    "input": "",
+    "output": "Rotation length is the period between the establishment of a crop or forest stand and its final harvest, often determined by the optimal time for maximizing yield or economic return."
+  },
+  {
+    "instruction": "Explain the term: Lower Heating Value (LHV)",
+    "input": "",
+    "output": "Lower Heating Value (LHV) is the amount of heat released by a unit quantity of fuel when it is combusted and the water produced remains in vapor form. It is a key parameter in evaluating the energy content of fuels."
+  },
+  {
+    "instruction": "Explain the term: Geological Survey",
+    "input": "",
+    "output": "A systematic investigation and analysis of the physical properties, structure, and composition of the earth's surface and subsurface in a specific area, often conducted to assess suitability for construction, resource extraction, or environmental impact."
+  },
+  {
+    "instruction": "Explain the term: Carbon to Nitrogen Ratio",
+    "input": "",
+    "output": "The carbon to nitrogen (C:N) ratio is the proportion of carbon to nitrogen in the feedstock used for biogas production. An optimal C:N ratio is crucial for the effective growth of anaerobic bacteria and efficient biogas production, with a typical recommended range of 25–30:1."
+  },
+  {
+    "instruction": "Explain the term: Net Head",
+    "input": "",
+    "output": "Net head is the effective vertical distance through which water falls in a hydro power system, calculated as the gross head minus any losses due to friction or turbulence in the system."
+  },
+  {
+    "instruction": "Explain the term: Tariff Structure",
+    "input": "",
+    "output": "The framework of rates and charges established by utilities or governments for the sale of electricity to consumers, reflecting production costs, revenue requirements, and policy considerations such as subsidies or cross-subsidization."
+  },
+  {
+    "instruction": "Explain the term: Benefit/Cost Ratio",
+    "input": "",
+    "output": "The benefit/cost ratio is a financial metric used in project analysis to compare the total expected benefits of a project to its total expected costs. A ratio greater than one indicates that the project's benefits outweigh its costs, making it economically desirable."
+  },
+  {
+    "instruction": "Explain the term: Smart Grid",
+    "input": "",
+    "output": "An advanced electrical grid system that uses digital communication technology, automation, and real-time data to efficiently manage electricity generation, distribution, and consumption, enabling integration of renewable energy sources, improved reliability, and active consumer participation."
+  },
+  {
+    "instruction": "Explain the term: Capacitive Reactance (XC)",
+    "input": "",
+    "output": "Capacitive reactance is the opposition to the change of voltage by a capacitor in an AC circuit. It is inversely proportional to the frequency of the alternating current and the capacitance, given by the formula XC = 1/(2πfC), where f is frequency and C is capacitance. Capacitive reactance is measured in ohms."
+  },
+  {
+    "instruction": "Explain the term: Protocol Stack",
+    "input": "",
+    "output": "A protocol stack is a set of network protocol layers that work together to manage the communication process between networked systems. Each layer in the stack provides specific functions, and data passes through these layers in a defined order, enabling interoperability and standardization across diverse systems."
+  },
+  {
+    "instruction": "Explain the term: Virtual Private LAN Service (VPLS)",
+    "input": "",
+    "output": "Virtual Private LAN Service (VPLS) is a Layer 2 MPLS-based service that creates a virtualized Ethernet broadcast domain across geographically dispersed sites, allowing multiple endpoints to communicate as if they are connected to the same local area network (LAN), supporting broadcast, multicast, and MAC learning."
+  },
+  {
+    "instruction": "Explain the term: Neighborhood Area Network (NAN)",
+    "input": "",
+    "output": "A Neighborhood Area Network (NAN) is a communication network that connects smart meters within a localized area, such as a neighborhood, to data concentrators or directly to utility systems. NANs commonly use technologies such as RF mesh or Power Line Communication (PLC) to enable efficient data aggregation and transmission for smart grid applications."
+  },
+  {
+    "instruction": "Explain the term: IED (Intelligent Electronic Device)",
+    "input": "",
+    "output": "An Intelligent Electronic Device (IED) is a microprocessor-based controller used in electrical power systems for monitoring, controlling, and protecting equipment such as circuit breakers, transformers, and transmission lines. IEDs collect data from sensors, process information, and communicate with supervisory systems for automated grid management."
+  },
+  {
+    "instruction": "Explain the term: Quality of Service (QoS)",
+    "input": "",
+    "output": "Quality of Service refers to the overall performance of a network or a network service, particularly the ability to guarantee specific data transmission parameters such as bandwidth, latency, jitter, and error rates, which are critical for supporting mission-critical and real-time applications."
+  },
+  {
+    "instruction": "Explain the term: Differentiated Services Code Point (DSCP)",
+    "input": "",
+    "output": "Differentiated Services Code Point (DSCP) is a 6-bit field in the IP packet header, specifically within the Type of Service (TOS) byte, used to indicate the level of service quality assigned to a packet. DSCP values allow network devices to classify and manage packets according to predefined QoS policies, supporting up to 64 distinct traffic classes."
+  },
+  {
+    "instruction": "Explain the term: Electronic Security Perimeter (ESP)",
+    "input": "",
+    "output": "An Electronic Security Perimeter (ESP) is a boundary within a network, established by security controls such as firewalls and access control systems, that encloses critical assets and systems to restrict and monitor electronic access, thereby protecting against unauthorized intrusions and ensuring compliance with regulatory standards."
+  },
+  {
+    "instruction": "Explain the term: Orthogonal Frequency Division Multiplexing (OFDM)",
+    "input": "",
+    "output": "Orthogonal Frequency Division Multiplexing is a digital modulation technique that divides a communication channel into multiple closely spaced sub-carriers, each carrying a portion of the data. OFDM improves spectral efficiency and resistance to interference, making it suitable for high-speed data transmission over challenging media such as power lines."
+  },
+  {
+    "instruction": "Explain the term: Transport Layer Security (TLS)",
+    "input": "",
+    "output": "Transport Layer Security (TLS) is a cryptographic protocol designed to provide secure communication over a computer network. It ensures data confidentiality, integrity, and authentication between communicating applications, protecting against eavesdropping and tampering."
+  },
+  {
+    "instruction": "Explain the term: QoS (Quality of Service)",
+    "input": "",
+    "output": "Quality of Service refers to a set of technologies and techniques used in networking to manage bandwidth allocation, prioritize traffic, and ensure reliable performance for critical applications by controlling latency, jitter, and packet loss."
+  },
+  {
+    "instruction": "Explain the term: MPLS (Multiprotocol Label Switching)",
+    "input": "",
+    "output": "MPLS is a high-performance telecommunications network protocol that directs data from one node to the next based on short path labels rather than long network addresses, supporting efficient traffic engineering, quality of service (QoS), and virtual private networks (VPNs)."
+  },
+  {
+    "instruction": "Explain the term: Circuit Breaker (CB)",
+    "input": "",
+    "output": "A protective device in power systems that detects faults such as short circuits or ground faults and automatically interrupts the circuit carrying the fault current, thereby preventing damage; it operates with a very short response time."
+  },
+  {
+    "instruction": "Explain the term: Renewable Energy System Integration",
+    "input": "",
+    "output": "The process of incorporating energy sources such as solar, wind, and hydro into existing power grids, addressing technical, operational, and regulatory challenges to ensure stable and efficient electricity supply."
+  },
+  {
+    "instruction": "Explain the term: Monte Carlo Simulation",
+    "input": "",
+    "output": "Monte Carlo Simulation is a computational technique that uses repeated random sampling to estimate the probabilistic outcomes of complex systems or processes, particularly when analytical solutions are infeasible. It is widely used to model uncertainty and variability in engineering, finance, and other fields."
+  },
+  {
+    "instruction": "Explain the term: Islanding",
+    "input": "",
+    "output": "Islanding refers to a condition in which a portion of the power grid, typically a Micro Grid or distributed generation system, continues to operate independently and supply power to local loads even when disconnected from the main utility grid."
+  },
+  {
+    "instruction": "Explain the term: Capacity Credit",
+    "input": "",
+    "output": "Capacity credit is a measure of the contribution of a power generation source, particularly variable renewables like wind or solar, to the overall system reliability. It represents the amount of conventional generation capacity that can be replaced by the renewable source without increasing the risk of supply shortfalls."
+  },
+  {
+    "instruction": "Explain the term: Distribution System Stability",
+    "input": "",
+    "output": "Distribution system stability encompasses the ability of a power distribution network to maintain acceptable voltage and frequency levels, and to recover from disturbances or changes in operating conditions, including both static and dynamic responses to events such as faults, load changes, or integration of intermittent renewable energy sources."
+  },
+  {
+    "instruction": "Explain the term: Voltage Stability",
+    "input": "",
+    "output": "Voltage stability refers to the ability of a power system to maintain acceptable voltage levels at all buses under normal operating conditions and after being subjected to disturbances. A system is considered voltage stable if it can restore voltages to acceptable levels following a disturbance; instability can lead to voltage collapse and widespread outages."
+  },
+  {
+    "instruction": "Explain the term: Demand Side Management (DSM)",
+    "input": "",
+    "output": "Demand Side Management (DSM) refers to strategies and technologies implemented by utilities or grid operators to influence consumer electricity usage patterns, aiming to optimize energy consumption, enhance grid reliability, and achieve economic and environmental objectives. DSM includes programs such as load shifting, peak clipping, and demand response."
+  },
+  {
+    "instruction": "Explain the term: State of Charge (SoC)",
+    "input": "",
+    "output": "State of Charge (SoC) is a measurement that indicates the current energy level of a battery as a percentage of its total capacity. SoC is a critical parameter for battery management systems, providing information necessary for safe operation, optimal performance, and longevity of battery storage systems."
+  },
+  {
+    "instruction": "Explain the term: Loss Factor (LLF)",
+    "input": "",
+    "output": "Loss factor is the ratio of the average power loss to the maximum power loss in an electrical system over a specified period. It is used to estimate the energy lost due to resistance in the system and is related to, but not directly determined by, the load factor."
+  },
+  {
+    "instruction": "Explain the term: Geometric Mean Radius (GMR)",
+    "input": "",
+    "output": "Geometric Mean Radius (GMR) is a calculated value used to represent the effective radius of a conductor or a bundle of conductors for inductance and capacitance calculations in transmission lines, accounting for the distribution of current and magnetic flux."
+  },
+  {
+    "instruction": "Explain the term: Single-Line Diagram",
+    "input": "",
+    "output": "A simplified schematic representation of a three-phase power system in which each component (such as generators, transformers, and transmission lines) is depicted by a single line and standard symbols, allowing easier visualization and analysis of complex power networks."
+  },
+  {
+    "instruction": "Explain the term: Surge Impedance (Characteristic Impedance)",
+    "input": "",
+    "output": "The surge impedance, also known as characteristic impedance, is the ratio of voltage to current of a single wave propagating along a transmission line without reflection. It is given by \\( Z_c = \\sqrt{L/C} \\), where \\( L \\) is the inductance per unit length and \\( C \\) is the capacitance per unit length of the line. It is a key parameter in analyzing wave propagation and power transfer in transmission lines."
+  },
+  {
+    "instruction": "Explain the term: Decoupled Load Flow",
+    "input": "",
+    "output": "A simplification of the load flow analysis in power systems, exploiting the weak coupling between real power and voltage magnitude, and between reactive power and phase angle, to reduce computational complexity by solving decoupled linear systems."
+  },
+  {
+    "instruction": "Explain the term: Sequence Impedance",
+    "input": "",
+    "output": "Sequence impedance refers to the impedance presented to each set of symmetrical components (positive, negative, and zero sequence) in a power system component, such as a transmission line, transformer, or machine. These impedances are used to analyze the behavior of the system under various fault conditions."
+  },
+  {
+    "instruction": "Explain the term: Transient Stability",
+    "input": "",
+    "output": "Transient stability is the ability of a power system to maintain synchronism when subjected to severe, sudden disturbances such as short circuits, loss of generation, or rapid changes in load, typically evaluated over a short period immediately following the disturbance."
+  },
+  {
+    "instruction": "Explain the term: Area Control Error (ACE)",
+    "input": "",
+    "output": "Area Control Error is a control signal in power system operations defined as the combination of the deviation in tie-line power flow from its scheduled value and the frequency deviation, each weighted by a bias factor; it is used to guide supplementary control actions to restore system frequency and scheduled power interchange."
+  },
+  {
+    "instruction": "Explain the term: Sag",
+    "input": "",
+    "output": "Sag is the vertical distance between the highest point of a support and the lowest point of a suspended conductor, such as an overhead transmission line. It is a critical parameter in line design, affecting clearance from the ground and mechanical stresses on the conductor."
+  },
+  {
+    "instruction": "Explain the term: Penalty Factor",
+    "input": "",
+    "output": "The penalty factor is a correction factor applied to the incremental cost of a generator to account for transmission losses in power systems, ensuring that the economic dispatch solution considers both generation costs and the effect of losses on total system operation."
+  },
+  {
+    "instruction": "Explain the term: Corona Effect",
+    "input": "",
+    "output": "Corona effect is the phenomenon of ionization of the air surrounding a conductor that is subjected to a high electric field, typically occurring in high-voltage transmission lines. It results in a visible glow, hissing noise, power loss, and sometimes ozone production."
+  },
+  {
+    "instruction": "Explain the term: Per-unit System",
+    "input": "",
+    "output": "The per-unit system is a method of normalizing electrical quantities in power system analysis by expressing values as fractions of a defined base unit, simplifying calculations and comparisons across different voltage and power levels."
+  },
+  {
+    "instruction": "Explain the term: Heat Pump",
+    "input": "",
+    "output": "A heat pump is a mechanical device that transfers heat from one location to another, typically extracting heat from the air, water, or ground outside a building and moving it indoors for heating, or reversing the process for cooling, making it an efficient option for climate control."
+  },
+  {
+    "instruction": "Explain the term: R-value",
+    "input": "",
+    "output": "R-value is a measure of thermal resistance used in the building and construction industry to indicate the effectiveness of insulation materials. The higher the R-value, the greater the material's resistance to heat flow, and the better its insulating properties."
+  },
+  {
+    "instruction": "Explain the term: ENERGY STAR®",
+    "input": "",
+    "output": "ENERGY STAR® is a voluntary program established by the U.S. Environmental Protection Agency and the U.S. Department of Energy that certifies products, homes, and buildings meeting strict energy efficiency guidelines to help consumers save energy and reduce greenhouse gas emissions."
+  },
+  {
+    "instruction": "Explain the term: Fuzzy Logic",
+    "input": "",
+    "output": "Fuzzy Logic is a mathematical framework for dealing with uncertainty and imprecision by allowing variables to have degrees of truth rather than binary true or false values. It uses membership functions and fuzzy rules to model complex systems where information is ambiguous, making it useful for control systems, expert systems, and forecasting applications."
+  },
+  {
+    "instruction": "Explain the term: Weekend Effect",
+    "input": "",
+    "output": "A phenomenon in load forecasting where electricity consumption patterns differ between weekends and weekdays, often due to changes in business operations and human activities, necessitating special modeling considerations for weekend days."
+  },
+  {
+    "instruction": "Explain the term: Radial Basis Function Neural Network (RBF Neural Network)",
+    "input": "",
+    "output": "A radial basis function neural network is a type of artificial neural network that uses radial basis functions as activation functions. It is commonly used for function approximation, time series prediction, and classification tasks due to its ability to model complex nonlinear relationships."
+  },
+  {
+    "instruction": "Explain the term: Smart Fabrics",
+    "input": "",
+    "output": "Smart fabrics are textiles that have integrated electronic components or advanced materials to provide active functionalities such as sensing, power generation, data transmission, or actuation, extending the capabilities of traditional fabrics beyond passive use."
+  },
+  {
+    "instruction": "Explain the term: Vehicle-to-Grid (V2G)",
+    "input": "",
+    "output": "Vehicle-to-grid is a system in which plug-in electric vehicles, such as electric cars, communicate with the power grid to sell demand response services by returning electricity to the grid or by throttling their charging rate."
+  },
+  {
+    "instruction": "Explain the term: Rolling Resistance",
+    "input": "",
+    "output": "Rolling resistance is the force that opposes the motion of a rolling vehicle tire on a surface, primarily caused by deformation of the tire and the road surface, and is quantified by a rolling resistance coefficient."
+  },
+  {
+    "instruction": "Explain the term: Continuous Conduction Mode (CCM)",
+    "input": "",
+    "output": "Continuous conduction mode is an operating mode of power converters in which the current through the inductor never falls to zero during the switching cycle. This mode ensures smoother current flow and is commonly used for stable and efficient converter operation."
+  },
+  {
+    "instruction": "Explain the term: Conduction Loss",
+    "input": "",
+    "output": "The power loss in a semiconductor device that occurs when it is in the \"on\" state and current flows through it, caused by the voltage drop across the device during conduction."
+  },
+  {
+    "instruction": "Explain the term: Ohm's Law",
+    "input": "",
+    "output": "Ohm's Law is a fundamental principle in electrical engineering stating that the current flowing through a conductor between two points is directly proportional to the voltage across the two points and inversely proportional to the resistance. It is mathematically expressed as \\( V = IR \\), where \\( V \\) is voltage, \\( I \\) is current, and \\( R \\) is resistance."
+  },
+  {
+    "instruction": "Explain the term: Saliency (in Electric Machines)",
+    "input": "",
+    "output": "Saliency in electric machines refers to the difference in magnetic properties or inductance along different axes of the rotor, typically the direct (d) and quadrature (q) axes, which affects torque production and enables additional reluctance torque in certain machine designs such as interior permanent magnet (IPM) motors."
+  },
+  {
+    "instruction": "Explain the term: Laminated Steel Core",
+    "input": "",
+    "output": "A laminated steel core is a core structure made from thin sheets of steel stacked and insulated from each other to reduce eddy current losses in electric machines by increasing electrical resistance along the path of circulating currents."
+  },
+  {
+    "instruction": "Explain the term: Field-Oriented Control (FOC)",
+    "input": "",
+    "output": "A method of controlling AC electric machines by transforming stator currents into a rotating reference frame aligned with the rotor or magnetic field, allowing independent control of torque and flux similar to DC machine control."
+  },
+  {
+    "instruction": "Explain the term: Nernst Equation",
+    "input": "",
+    "output": "An equation that relates the reduction potential of a chemical reaction to the standard electrode potential, temperature, and the activities or concentrations of the chemical species involved, allowing calculation of cell voltage under non-standard conditions."
+  },
+  {
+    "instruction": "Explain the term: Bidirectional DC/DC Converter",
+    "input": "",
+    "output": "A power electronic device that can transfer electrical energy in both directions between two DC circuits, allowing for both charging and discharging of energy storage devices such as batteries and ultracapacitors. These converters can operate in boost mode (increasing voltage) or buck mode (decreasing voltage) depending on the direction of power flow."
+  },
+  {
+    "instruction": "Explain the term: DC-DC Converter",
+    "input": "",
+    "output": "A DC-DC converter is an electronic circuit that converts direct current (DC) voltage from one level to another, enabling efficient power management and voltage regulation in systems with multiple energy sources or storage devices."
+  },
+  {
+    "instruction": "Explain the term: Regenerative Braking",
+    "input": "",
+    "output": "Regenerative braking is a technology in electrified vehicles that recovers kinetic energy during deceleration or braking events, converting it into electrical energy stored in the battery, rather than dissipating it as heat. This process improves overall vehicle efficiency and extends driving range."
+  },
+  {
+    "instruction": "Explain the term: Electromagnetic Compatibility (EMC)",
+    "input": "",
+    "output": "The ability of electrical and electronic equipment to operate without mutual interference when in proximity, ensured by design features and components such as EMI filters to meet regulatory emission and immunity standards."
+  },
+  {
+    "instruction": "Explain the term: DC Bus Voltage",
+    "input": "",
+    "output": "DC bus voltage refers to the direct current voltage level present on the main electrical bus that connects high-voltage components such as the battery, inverter, and electric motors in hybrid and electric vehicles; it is a critical parameter for power flow and system efficiency."
+  },
+  {
+    "instruction": "Explain the term: Driving Cycle",
+    "input": "",
+    "output": "A driving cycle is a standardized sequence of vehicle speed and acceleration patterns over time, designed to simulate real-world driving conditions for the purpose of evaluating vehicle performance, fuel consumption, emissions, and energy requirements."
+  },
+  {
+    "instruction": "Explain the term: Zero Voltage Switching (ZVS)",
+    "input": "",
+    "output": "Zero Voltage Switching (ZVS) is a soft-switching technique used in power electronics where a switch (typically a transistor) is turned on or off when the voltage across it is zero, minimizing switching losses, reducing electromagnetic interference (EMI), and improving efficiency in high-frequency converter applications."
+  },
+  {
+    "instruction": "Explain the term: Power Electronics",
+    "input": "",
+    "output": "Power electronics refers to the branch of electrical engineering that deals with the conversion, control, and conditioning of electric power using electronic devices such as inverters, converters, and controllers. In automotive applications, power electronics manage the flow of energy between batteries, motors, and other electrical systems in hybrid and electric vehicles."
+  },
+  {
+    "instruction": "Explain the term: Specific Energy and Specific Power",
+    "input": "",
+    "output": "Specific energy refers to the amount of energy stored per unit mass of an energy storage device, indicating how far a vehicle can travel on a single charge. Specific power refers to the rate at which energy can be delivered per unit mass, indicating how quickly a vehicle can accelerate or how much power can be supplied at once. Both metrics are critical in evaluating and comparing energy storage technologies."
+  },
+  {
+    "instruction": "Explain the term: Open Circuit Voltage (OCV)",
+    "input": "",
+    "output": "Open Circuit Voltage (OCV) refers to the voltage measured across the terminals of a battery when it is not connected to any external load or circuit. OCV is often used as an indicator of a battery's state of charge, although it requires the battery to be at rest for accurate measurement."
+  },
+  {
+    "instruction": "Explain the term: Plug-in Hybrid Electric Vehicle (PHEV)",
+    "input": "",
+    "output": "A plug-in hybrid electric vehicle is a vehicle that combines a conventional internal combustion engine (ICE) system with an electric propulsion system and a rechargeable battery that can be charged by plugging into an external electric power source."
+  },
+  {
+    "instruction": "Explain the term: Admissible Control",
+    "input": "",
+    "output": "An admissible control is a control input or function that satisfies all the constraints and boundary conditions of an optimal control problem, such as system dynamics, input limits, and terminal requirements, making it eligible for consideration in the optimization process."
+  },
+  {
+    "instruction": "Explain the term: Reactive Power",
+    "input": "",
+    "output": "The component of alternating current (AC) electricity that does not perform real work but is necessary to maintain voltage levels for the transfer of active power through the network; it is measured in volt-amperes reactive (VAR) and is essential for voltage control in power systems."
+  },
+  {
+    "instruction": "Explain the term: Common Pool Resources (CPR)",
+    "input": "",
+    "output": "Common pool resources are natural or man-made resources, such as forests, fisheries, or irrigation systems, from which multiple individuals or groups can benefit, but where one user's consumption reduces availability for others. Effective management of CPRs often requires collective action and robust local institutions."
+  },
+  {
+    "instruction": "Explain the term: Social Contract",
+    "input": "",
+    "output": "A social contract is an implicit or explicit agreement among members of a society or between the governed and the governing, outlining the rights, duties, and distribution of power and resources. It forms the basis for social order and cooperation, influencing participation, property rights, and the allocation of wealth and authority within a society."
+  },
+  {
+    "instruction": "Explain the term: Common Pool Resource (CPR)",
+    "input": "",
+    "output": "A common pool resource is a natural or man-made resource system, such as fisheries, groundwater basins, or pastures, where one person's use subtracts from another's use and it is often difficult to exclude individuals from accessing the resource."
+  },
+  {
+    "instruction": "Explain the term: Cooperative Business Enterprise",
+    "input": "",
+    "output": "A cooperative business enterprise is an organization owned and operated by a group of individuals for their mutual benefit, where profits and decision-making power are distributed among members rather than external shareholders."
+  },
+  {
+    "instruction": "Explain the term: Participatory Irrigation Management",
+    "input": "",
+    "output": "Participatory irrigation management is an approach in which water users, particularly farmers, are actively involved in the decision-making, operation, and maintenance of irrigation systems. This participatory method aims to improve efficiency, sustainability, and equity in water distribution and system management."
+  },
+  {
+    "instruction": "Explain the term: Land Tenure",
+    "input": "",
+    "output": "Land tenure refers to the legal or customary rights individuals or groups have to own, use, and manage land and its resources. It determines how land is allocated, transferred, and controlled, and plays a critical role in agricultural productivity, resource management, and social stability."
+  },
+  {
+    "instruction": "Explain the term: National Environmental Policy Act (NEPA)",
+    "input": "",
+    "output": "The National Environmental Policy Act (NEPA) is a United States environmental law that requires federal agencies to assess the environmental effects of their proposed actions prior to making decisions, often necessitating the preparation of Environmental Impact Statements or Environmental Assessments."
+  },
+  {
+    "instruction": "Explain the term: Photovoltaic (PV) Cell",
+    "input": "",
+    "output": "A photovoltaic cell is a semiconductor device that converts sunlight directly into electricity through the photovoltaic effect, typically used in solar panels for renewable energy generation."
+  },
+  {
+    "instruction": "Explain the term: Power Generation",
+    "input": "",
+    "output": "Power generation is the process of converting various forms of energy, such as chemical, mechanical, nuclear, or renewable energy, into electrical energy in power plants. This electricity is then supplied to the grid for consumption by residential, commercial, and industrial users."
+  },
+  {
+    "instruction": "Explain the term: Rankine Cycle",
+    "input": "",
+    "output": "The Rankine cycle is a thermodynamic cycle used to convert heat into mechanical work, typically employed in steam power plants. It involves the phase change of water to steam, expansion through a turbine, condensation, and pressurization."
+  },
+  {
+    "instruction": "Explain the term: Damping Torque",
+    "input": "",
+    "output": "Damping torque is the component of electrical torque in a synchronous machine that opposes changes in rotor speed, thereby damping oscillations and helping the system return to steady-state operation after a disturbance. Positive damping torque is crucial for system stability, while negative damping can lead to instability."
+  },
+  {
+    "instruction": "Explain the term: Mutual Inductance",
+    "input": "",
+    "output": "The property of two or more coils or circuits whereby a change in current in one coil induces a voltage in another coil through electromagnetic induction."
+  },
+  {
+    "instruction": "Explain the term: Per Unit System (pu)",
+    "input": "",
+    "output": "The per unit system is a normalization method used in power system analysis where system quantities such as voltage, current, impedance, and power are expressed as fractions of selected base values. This simplifies calculations and comparison by reducing the range of numerical values and providing a consistent framework for analyzing electrical networks."
+  },
+  {
+    "instruction": "Explain the term: Bus Types (PQ, PV, Slack)",
+    "input": "",
+    "output": "In power system analysis, buses are classified as PQ buses (with specified real and reactive power), PV buses (with specified real power and voltage magnitude), and slack (reference) bus (with specified voltage magnitude and angle), each serving a distinct role in power flow calculations."
+  },
+  {
+    "instruction": "Explain the term: Swing Equation",
+    "input": "",
+    "output": "The swing equation is a second-order nonlinear differential equation that models the dynamic behavior of a synchronous generator's rotor angle in response to disturbances. It relates the generator's angular acceleration to the difference between mechanical input power and electrical output power, accounting for inertia and damping effects."
+  },
+  {
+    "instruction": "Explain the term: Small Signal Stability",
+    "input": "",
+    "output": "Small signal stability is the ability of a power system or dynamic system to maintain synchronism and return to its steady-state operating condition following small disturbances, such as minor changes in load or generation."
+  },
+  {
+    "instruction": "Explain the term: Load Flow Analysis",
+    "input": "",
+    "output": "Load flow analysis is a computational technique used in power system engineering to determine the voltage, current, real power (P), and reactive power (Q) at various points (buses) in an electrical power network under steady-state conditions. It is essential for planning, operation, and optimization of power systems."
+  },
+  {
+    "instruction": "Explain the term: Artificial Neural Network (ANN)",
+    "input": "",
+    "output": "An artificial neural network is a computational model inspired by the structure and function of biological neural networks. It consists of interconnected processing elements called neurons, which process information using dynamic state responses to external inputs. ANNs are capable of learning patterns from data and are widely used for tasks such as classification, regression, and function approximation."
+  },
+  {
+    "instruction": "Explain the term: Pole Assignment (PA) Control",
+    "input": "",
+    "output": "Pole Assignment (PA) Control is a control strategy in which the closed-loop poles of a system are placed at specific locations in the complex plane by appropriately designing the controller, with the goal of achieving desired stability and dynamic response characteristics."
+  },
+  {
+    "instruction": "Explain the term: ABCD Parameters",
+    "input": "",
+    "output": "ABCD parameters, also known as transmission line parameters, are a set of four constants (A, B, C, D) that describe the relationship between the sending and receiving end voltages and currents of a two-port network, such as a transmission line. They are fundamental in the analysis and modeling of transmission lines in power systems."
+  },
+  {
+    "instruction": "Explain the term: ABCD Parameters",
+    "input": "",
+    "output": "ABCD parameters are a set of four complex constants (A, B, C, D) used in the two-port network model to characterize the voltage and current relationship between the sending and receiving ends of a transmission line or network. These parameters are fundamental in the analysis and modeling of long transmission lines and their behavior under various compensation schemes."
+  },
+  {
+    "instruction": "Explain the term: Meissner Effect",
+    "input": "",
+    "output": "The Meissner effect is the expulsion of magnetic fields from the interior of a superconductor when it transitions below its critical temperature, resulting in the superconductor becoming perfectly diamagnetic."
+  },
+  {
+    "instruction": "Explain the term: Ordinary Differential Equation (ODE)",
+    "input": "",
+    "output": "An ordinary differential equation is a mathematical equation that relates a function with its derivatives, describing how the function changes with respect to one independent variable. ODEs are fundamental in modeling dynamic systems in fields such as physics, engineering, and biology."
+  },
+  {
+    "instruction": "Explain the term: Institutional Critique",
+    "input": "",
+    "output": "Institutional critique is a practice in contemporary art and architecture that critically examines the structures, roles, and power dynamics of cultural institutions such as museums, galleries, and academic organizations, often exposing or challenging their influence on artistic production and reception."
+  },
+  {
+    "instruction": "Explain the term: Relational Aesthetics",
+    "input": "",
+    "output": "Relational aesthetics is an art theory developed in the 1990s that focuses on artworks as social experiences and interactions rather than objects. It values the creation of inter-human relations and participatory environments, with the audience playing an active role in the production and meaning of the artwork."
+  },
+  {
+    "instruction": "Explain the term: Praxis",
+    "input": "",
+    "output": "Praxis refers to the process by which a theory, lesson, or skill is enacted, embodied, or realized. In philosophy and social sciences, it denotes the practical application of ideas or the active engagement in a practice, emphasizing the interplay between action and reflection in the development of knowledge or social relations."
+  },
+  {
+    "instruction": "Explain the term: Installation Art",
+    "input": "",
+    "output": "A form of contemporary art in which artworks are created for specific sites and arranged to transform the perception of a space, often engaging viewers physically and conceptually with the environment."
+  },
+  {
+    "instruction": "Explain the term: Period Room",
+    "input": "",
+    "output": "A period room is a museum installation that reconstructs or simulates an interior space from a specific historical period, using authentic or reproduction furnishings, decor, and architectural elements to evoke the appearance and atmosphere of a particular time and place."
+  },
+  {
+    "instruction": "Explain the term: Minimalist Aesthetic",
+    "input": "",
+    "output": "Minimalist aesthetic is an artistic style characterized by simplicity, repetition, and the use of basic geometric forms, often aiming to reduce artworks to their essential elements and to focus attention on the materiality and spatial relationships."
+  },
+  {
+    "instruction": "Explain the term: Capital Expenditure (Capex)",
+    "input": "",
+    "output": "Capital expenditure is the amount of money invested by a business or organization to acquire, upgrade, or maintain physical assets such as buildings, equipment, or infrastructure. In power systems, Capex typically refers to the costs incurred for constructing or expanding generation, transmission, and distribution facilities."
+  },
+  {
+    "instruction": "Explain the term: Renewable Energy",
+    "input": "",
+    "output": "Renewable energy is energy derived from natural resources that are replenished on a human timescale, such as sunlight, wind, water, geothermal heat, and biomass, and is considered more sustainable and environmentally friendly compared to fossil fuels."
+  },
+  {
+    "instruction": "Explain the term: Normal Q-Q Plot",
+    "input": "",
+    "output": "A normal Q-Q (quantile-quantile) plot is a graphical tool used to assess if a dataset follows a normal distribution by plotting the quantiles of the data against the theoretical quantiles of a standard normal distribution."
+  },
+  {
+    "instruction": "Explain the term: Regression Tree",
+    "input": "",
+    "output": "A regression tree is a type of decision tree algorithm used in machine learning and statistics for predicting continuous numerical values. It works by recursively splitting the data into subsets based on feature values to minimize prediction error, ultimately producing a tree structure where each leaf represents a predicted value."
+  },
+  {
+    "instruction": "Explain the term: Mean Absolute Percentage Error (MAPE)",
+    "input": "",
+    "output": "Mean Absolute Percentage Error (MAPE) is a statistical measure used to assess the accuracy of a forecasting method. It calculates the average absolute difference between actual and predicted values, expressed as a percentage of the actual values, providing an intuitive metric for forecast error."
+  },
+  {
+    "instruction": "Explain the term: Thermal efficiency",
+    "input": "",
+    "output": "Thermal efficiency refers to the ratio of useful heat output to the total energy input in a system, indicating how effectively a furnace or other thermal device converts energy into the desired heating process."
+  },
+  {
+    "instruction": "Explain the term: Direct-Arc Furnace",
+    "input": "",
+    "output": "A direct-arc furnace is an electric furnace in which an electric arc is struck directly between electrodes and the metal charge, providing intense heat for melting metals. This type of furnace is commonly used for melting and refining steel and other alloys."
+  },
+  {
+    "instruction": "Explain the term: Vertical-Ring Induction Furnace",
+    "input": "",
+    "output": "A vertical-ring induction furnace is a type of electric furnace that uses electromagnetic induction to heat and melt metals. The furnace typically features a vertical arrangement of the induction coil and is used for efficient and uniform melting of metal alloys."
+  },
+  {
+    "instruction": "Explain the term: Annealing Furnace",
+    "input": "",
+    "output": "An annealing furnace is a type of industrial furnace used to heat materials, typically metals, to a specific temperature and then slowly cool them in order to alter their physical and sometimes chemical properties, such as increasing ductility and reducing hardness."
+  },
+  {
+    "instruction": "Explain the term: Skin Effect",
+    "input": "",
+    "output": "Skin effect is the tendency of alternating electric current to distribute itself within a conductor such that the current density is largest near the surface of the conductor and decreases with greater depths in the conductor. This effect increases with higher frequencies and can result in increased resistance and power losses."
+  },
+  {
+    "instruction": "Explain the term: Resistor Plate",
+    "input": "",
+    "output": "A resistor plate is a component in an electric furnace that provides resistance to the flow of electric current, thereby generating heat. These plates are often made from materials such as carbon or nickel-chromium alloys and are used to heat the furnace chamber for melting metals."
+  },
+  {
+    "instruction": "Explain the term: Fire-Clay-Graphite Crucible",
+    "input": "",
+    "output": "A crucible made from a mixture of fire clay and graphite, providing high thermal resistance and strength, commonly used for melting metals at elevated temperatures due to its durability and resistance to chemical attack."
+  },
+  {
+    "instruction": "Explain the term: Refractory",
+    "input": "",
+    "output": "A refractory is a heat-resistant material, such as fire clay, magnesite, or carborundum, used to line furnaces, kilns, and reactors. Refractories maintain structural integrity and chemical stability at high temperatures."
+  },
+  {
+    "instruction": "Explain the term: Granular Carbon",
+    "input": "",
+    "output": "Granular carbon refers to carbon material in the form of small, coarse particles or grains. It is commonly used in industrial applications, such as in furnace resistors, due to its conductive properties and ability to withstand high temperatures."
+  },
+  {
+    "instruction": "Explain the term: Stellite",
+    "input": "",
+    "output": "A family of cobalt-chromium alloys known for their exceptional hardness, wear resistance, and ability to retain strength at high temperatures. Stellite is often used for cutting tools, wear-resistant surfaces, and high-temperature applications."
+  },
+  {
+    "instruction": "Explain the term: Indirect-Arc Furnace",
+    "input": "",
+    "output": "An electric furnace in which the electric arc is not formed directly with the charge, but rather between electrodes above the material. Heat is transferred to the charge by radiation, resulting in less severe surface heating and reduced losses of volatile metals, making it suitable for melting brass and bronze."
+  },
+  {
+    "instruction": "Explain the term: Resistor Furnace",
+    "input": "",
+    "output": "A resistor furnace is an electric furnace in which heat is generated by passing an electric current through a resistive element, such as a carbon rod or metal wire, converting electrical energy into heat by the resistance of the element."
+  },
+  {
+    "instruction": "Explain the term: Power Consumption (kw. h. per ton)",
+    "input": "",
+    "output": "Power consumption, measured in kilowatt-hours per ton (kw. h. per ton), indicates the amount of electrical energy required to melt or process one ton of metal in an electric furnace. This value is a key indicator of furnace efficiency and operational cost in metallurgical processes."
+  },
+  {
+    "instruction": "Explain the term: Induction Furnace",
+    "input": "",
+    "output": "An induction furnace is an electrical furnace in which the heat required to melt or process metals is generated by electromagnetic induction. Alternating current flows through coils, creating a magnetic field that induces eddy currents within the metal charge, causing it to heat up and melt."
+  },
+  {
+    "instruction": "Explain the term: Power Consumption per Ton (kw. h. per ton)",
+    "input": "",
+    "output": "Power consumption per ton, measured in kilowatt-hours per ton (kw. h. per ton), is a metric indicating the amount of electrical energy required to melt or process one ton of material in an industrial furnace or similar equipment."
+  },
+  {
+    "instruction": "Explain the term: Metal Loss Test",
+    "input": "",
+    "output": "A metal loss test is a procedure used to determine the amount of metal lost during melting and casting operations. It involves measuring the difference between the amount of metal charged into a furnace and the amount recovered, accounting for losses due to oxidation, volatilization, slag formation, and spillage."
+  },
+  {
+    "instruction": "Explain the term: Ampere",
+    "input": "",
+    "output": "The ampere is the base unit of electric current in the International System of Units (SI), defined as the flow of one coulomb of electric charge per second. It is a fundamental measure of the amount of electric charge passing a point in an electrical circuit."
+  },
+  {
+    "instruction": "Explain the term: Electrode",
+    "input": "",
+    "output": "A conductor through which electric current enters or leaves a medium, such as a furnace or an electrolytic cell. Electrodes are essential components in many electrical and electrochemical processes."
+  },
+  {
+    "instruction": "Explain the term: Electric Furnace",
+    "input": "",
+    "output": "An electric furnace is an industrial heating device that uses electrical energy to generate heat for processes such as melting, heat treating, or chemical reactions, commonly used in metallurgy and materials processing."
+  },
+  {
+    "instruction": "Explain the term: In Situ Polymerization",
+    "input": "",
+    "output": "In situ polymerization is a process in which monomers are polymerized directly within a matrix or around a substrate, leading to the formation of a polymer composite with improved dispersion and interaction between the phases. This technique is commonly used in the fabrication of advanced composite materials."
+  },
+  {
+    "instruction": "Explain the term: Perfect Hashing",
+    "input": "",
+    "output": "Perfect hashing is a hashing technique that constructs a hash function mapping a set of keys to a set of slots with no collisions, enabling constant-time lookup for each key in the set."
+  },
+  {
+    "instruction": "Explain the term: Zero-Energy Building",
+    "input": "",
+    "output": "A zero-energy building is a structure designed to produce as much energy as it consumes over the course of a year, typically through a combination of high energy efficiency and on-site renewable energy generation, resulting in a net-zero annual energy consumption."
+  },
+  {
+    "instruction": "Explain the term: Market Externalities",
+    "input": "",
+    "output": "Market externalities are costs or benefits arising from an economic activity that affect third parties who did not choose to incur those costs or benefits, such as pollution from energy production that impacts public health and the environment but is not reflected in market prices."
+  },
+  {
+    "instruction": "Explain the term: Compact Fluorescent Lamp (CFL)",
+    "input": "",
+    "output": "A compact fluorescent lamp is an energy-efficient lighting device that uses a fluorescent tube, which is curved or folded to fit into the space of an incandescent bulb, and typically consumes less electricity and has a longer lifespan than traditional incandescent lamps."
+  },
+  {
+    "instruction": "Explain the term: Nation-State",
+    "input": "",
+    "output": "A nation-state is a form of political organization characterized by a defined territory, a permanent population, a government, and the recognition of sovereignty, where the boundaries of the nation (a cultural or ethnic group) largely coincide with the boundaries of the state."
+  },
+  {
+    "instruction": "Explain the term: Embodied Energy",
+    "input": "",
+    "output": "Embodied energy refers to the total primary energy consumed during the production, transportation, replacement, and disposal of building materials and components, including those used in renovation and maintenance processes."
+  },
+  {
+    "instruction": "Explain the term: Service Life",
+    "input": "",
+    "output": "Service life is the period during which a building component, material, or system performs its intended function without requiring replacement. It is influenced by material properties, environmental exposure, and the function or location within the building. Accurate estimation of service life is essential for reliable LCA calculations."
+  },
+  {
+    "instruction": "Explain the term: Co-benefits",
+    "input": "",
+    "output": "Co-benefits are additional positive outcomes that occur as a result of implementing a particular policy or measure, beyond the primary intended effect. In the context of building renovation, co-benefits might include improved air quality, noise reduction, or increased property value alongside energy savings."
+  },
+  {
+    "instruction": "Explain the term: Life Cycle Assessment (LCA)",
+    "input": "",
+    "output": "Life Cycle Assessment is a systematic method for evaluating the environmental impacts associated with all stages of a product's life, from raw material extraction through production, use, and disposal. It quantifies energy, resource use, and emissions to provide a comprehensive view of a product's environmental footprint."
+  },
+  {
+    "instruction": "Explain the term: Information and Communications Technology (ICT)",
+    "input": "",
+    "output": "The integration of telecommunications, computing, and data management technologies used to transmit, store, retrieve, and process information, playing a critical role in enabling connectivity and automation in modern electrical power systems."
+  },
+  {
+    "instruction": "Explain the term: Synchronous Interconnection",
+    "input": "",
+    "output": "Synchronous interconnection refers to the operation of multiple power grids or transmission systems at the same frequency and phase, allowing them to function as a single, unified system. This enables the transfer of electricity across large regions with enhanced stability and reliability."
+  },
+  {
+    "instruction": "Explain the term: Water–Gas Shift Reaction",
+    "input": "",
+    "output": "The water–gas shift reaction is a chemical process in which carbon monoxide reacts with water vapor to produce carbon dioxide and hydrogen gas. This reaction is commonly used in hydrogen production and industrial processes to increase hydrogen yield from hydrocarbon fuels."
+  },
+  {
+    "instruction": "Explain the term: Intelligent Electronic Device (IED)",
+    "input": "",
+    "output": "An Intelligent Electronic Device (IED) is a microprocessor-based controller used in electrical substations for protection, control, measurement, and monitoring of electrical equipment. IEDs can process data, communicate with other devices, and execute automated functions such as tripping circuit breakers or recording events."
+  },
+  {
+    "instruction": "Explain the term: Neutral Grounding",
+    "input": "",
+    "output": "Neutral grounding is the method by which the neutral point of an electrical system, such as a transformer or generator, is connected to the earth. This practice influences the behavior of the system during faults, especially phase-to-earth faults, and affects safety, fault current levels, and protection schemes."
+  },
+  {
+    "instruction": "Explain the term: Harmonic Distortion",
+    "input": "",
+    "output": "Harmonic distortion is a form of electrical signal distortion occurring when non-linear loads introduce frequencies into the power system that are integer multiples of the fundamental frequency, resulting in reduced power quality and potential damage or malfunction of electrical equipment."
+  },
+  {
+    "instruction": "Explain the term: Distributed Energy Resources (DER)",
+    "input": "",
+    "output": "Small-scale units of local generation, storage, or controllable loads, typically connected to the distribution network, that can supply electricity or support grid operations; examples include solar panels, wind turbines, batteries, and demand response resources."
+  },
+  {
+    "instruction": "Explain the term: Bi-directional Power Flow",
+    "input": "",
+    "output": "Bi-directional Power Flow is the condition in modern electrical grids where electricity can flow in both directions—both from central generation to consumers and from distributed generation (such as rooftop solar panels) back into the grid—necessitating advanced control and monitoring to maintain voltage quality and system reliability."
+  },
+  {
+    "instruction": "Explain the term: Dynamic Tariffs",
+    "input": "",
+    "output": "Dynamic tariffs are electricity pricing schemes in which the cost of electricity varies over time, typically in response to changes in demand, supply, or market conditions. These tariffs are designed to encourage consumers to shift their energy usage to periods when electricity is less expensive or when renewable energy is more abundant."
+  },
+  {
+    "instruction": "Explain the term: IEC 61850",
+    "input": "",
+    "output": "IEC 61850 is an international standard series for communication networks and systems in substations and power utility automation. It defines protocols, data models, and engineering processes to ensure interoperability, flexibility, and efficient communication between intelligent electronic devices (IEDs) from different manufacturers."
+  },
+  {
+    "instruction": "Explain the term: IEC/TS 62351",
+    "input": "",
+    "output": "IEC/TS 62351 is a series of technical specifications developed by the International Electrotechnical Commission to address information security for power system control operations. The standard covers security measures such as authentication, encryption, role-based access control, and protection against unauthorized access or data modification in communication protocols used within power systems."
+  },
+  {
+    "instruction": "Explain the term: Distributed Energy Resources (DER)",
+    "input": "",
+    "output": "Distributed Energy Resources are small-scale units of local generation or storage connected to the grid at distribution level, including renewable sources such as solar panels, wind turbines, batteries, and other technologies that can supply electricity close to the point of use."
+  },
+  {
+    "instruction": "Explain the term: Jeju System",
+    "input": "",
+    "output": "The Jeju System refers to the electrical grid and infrastructure serving Jeju Island, South Korea, which has been used as a demonstration site for advanced energy technologies and smart grid initiatives."
+  },
+  {
+    "instruction": "Explain the term: TES (Transition Edge Sensor)",
+    "input": "",
+    "output": "A highly sensitive superconducting device that operates at the edge of the superconducting-to-normal transition, used for precise measurement of energy deposited by absorbed photons through changes in electrical resistance."
+  },
+  {
+    "instruction": "Explain the term: Transition Edge Sensor (TES)",
+    "input": "",
+    "output": "A Transition Edge Sensor (TES) is a highly sensitive superconducting detector that operates at the edge of the superconducting-to-normal transition. It detects energy deposited by incident photons or particles through changes in resistance caused by temperature variations in the superconducting material."
+  },
+  {
+    "instruction": "Explain the term: Johnson Noise",
+    "input": "",
+    "output": "Johnson noise, also known as thermal noise, is the random electrical noise generated by the thermal agitation of charge carriers (usually electrons) within a conductor, which is present even in the absence of an external voltage."
+  },
+  {
+    "instruction": "Explain the term: Deep Learning (DL)",
+    "input": "",
+    "output": "Deep Learning (DL) is a subset of machine learning that utilizes artificial neural networks with multiple layers (deep architectures) to model and understand complex patterns in large datasets. DL techniques are particularly effective for tasks such as image and speech recognition, natural language processing, and predictive analytics."
+  },
+  {
+    "instruction": "Explain the term: Long Short-Term Memory (LSTM)",
+    "input": "",
+    "output": "Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture designed to learn and remember long-term dependencies in sequential data, using gating mechanisms to control the flow of information."
+  },
+  {
+    "instruction": "Explain the term: Anomaly-based Intrusion Detection System (AIDS)",
+    "input": "",
+    "output": "An Anomaly-based Intrusion Detection System (AIDS) detects potential threats by identifying deviations from established normal behavior profiles. It uses statistical analysis, machine learning, or data mining techniques to recognize unusual activities, making it capable of detecting unknown or novel attacks, though it may produce higher false positives."
+  },
+  {
+    "instruction": "Explain the term: Edge Computing",
+    "input": "",
+    "output": "Edge computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data, such as sensors and devices at the edge of the network, to improve response times and save bandwidth."
+  },
+  {
+    "instruction": "Explain the term: Semi-Supervised Learning (SSL)",
+    "input": "",
+    "output": "Semi-Supervised Learning is a machine learning paradigm that utilizes both labeled and unlabeled data for training, aiming to improve learning accuracy when labeled data is scarce or expensive to obtain."
+  },
+  {
+    "instruction": "Explain the term: Big Data",
+    "input": "",
+    "output": "Big Data denotes extremely large and complex data sets characterized by high volume, velocity, and variety, which require advanced methods and technologies for storage, processing, and analysis to extract valuable insights and support decision-making."
+  },
+  {
+    "instruction": "Explain the term: Binary Classification",
+    "input": "",
+    "output": "Binary classification is a supervised learning task in which a model is trained to categorize data into one of two distinct classes, often labeled as positive or negative, such as distinguishing between benign and malicious software."
+  }
+]

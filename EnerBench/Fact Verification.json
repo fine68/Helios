@@ -1,0 +1,1227 @@
+[
+  {
+    "instruction": "Congressional actions related to AI funding, acquisitions, norms, and international competition can significantly influence the development trajectory of military AI. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Renewable energy is most easily produced in centralised locations and is expensive to distribute. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Most commercial production of selective surfaces is currently done using electrochemical dipping. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Standard meteorological wind speed measurements are typically taken at a height of 10 meters. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The absorption spectrum of a pigment in a living leaf is identical to that of the same pigment when separated in vitro. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The useful heat content per square kilometre of dry rock granite to a depth of 7 km, with a geothermal temperature gradient of 40°C/km and minimum useful temperature of 140 K above the surface, is calculated as 5.42 × 10¹⁷ J/km². (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The surveyed household had no electrical appliances during the study period. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The net calorific value at constant pressure is generally used for energy calculations involving biomass fuels. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In Finland, the direct import and export of biomass fuels, mainly wood pellets and tall oil, play a major role in total biomass fuel consumption. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Hybrid energy systems can include both renewable and nonrenewable energy sources. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The Claude cycle is a common example of a practical cycle used for helium refrigeration. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Biomass was responsible for about 5% of the primary energy used in the United States in 2016. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The passage claims that smart city projects currently focus mainly on horizontal integration across multiple infrastructure sectors such as energy, transport, water, and health. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Siemens is currently developing and constructing SMES systems. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In an HVDC system, the transmission of control signals for start-up and shut-down requires coordination between both stations via a telecommunication system. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In current HVDC systems, DC circuit breakers are used to mitigate switching-surge overvoltages on the DC side. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Since the 1990s, most modern HVDC controllers have been of the analog type. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The HVDC Itaipu transmission line in Brazil consists of two bipolar lines that operate at 600 kV and are built as overhead lines. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The MLP model with the Levenberg-Marquardt (LM) learning algorithm was found to be the optimal model for estimating the HTF discharge rate compared to other ANN models. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The proposed Thermal Energy Storage (TES) system in the CTR plant uses two tanks containing a mixture of 60% sodium nitrate (NaNO3) and 40% potassium nitrate (KNO3) as the storage medium. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "According to the passage, nuclear power and coal are considered the main contenders for new electricity supply in most countries due to comparative costs, security of supply, and environmental issues. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The French electricity pricing policy is based on the principles of equality of treatment and economic efficiency. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In a deregulated electricity market, generators are centrally dispatched by the Market Coordinator. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The Kalina cycle has already been fully developed and implemented in large-scale gas-turbine power plants. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Mechanical steam compression (MSC) techniques for drying are a well-established and mature technology. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The direct torque control (DTC) method for induction motors was commercialized by ABB in the 1990s. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The energy storage capacity of the dc-link capacitors in variable speed drives is sufficient to support the drive for several minutes at nominal power. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "It is unnecessary to know the grid impedance for efficient control of grid voltage harmonics. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In the 113th Congress, legislation was introduced that would require high-frequency traders in derivatives to register with the Commodity Futures Trading Commission (CFTC). (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "According to the passage, SEC Chair Mary Jo White confirmed that HFT firms have early access to customer order information, which constitutes illegal front-running. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The CFTC's Concept Release on Automated Trading Systems included questions about pre-trade risk controls such as message throttles, volatility alerts, and price collars. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The passage claims that centralized collection of coconut husks and shells is always economically viable for energy production. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The passage states that meteorologists are always the preferred professionals to conduct wind energy resource assessments. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Fluidized bed gasifiers have a wider turndown ratio range than fixed bed gasifiers. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The financial analysis for the Lehmasi River hydroelectric scheme shows that the project is profitable at the government-subsidized electricity rate. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Under Critical Peak Pricing (CPP), consumers are always notified at least a week in advance before CPP rates are applied. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In an ideal transformer, the power factor of the input power and the output power are different. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The IEC 61850 standards have been extended to support communication between substations and both bulk and distributed generation sources. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "All substations in the Smart Grid network must be equipped with a cluster router (CR). (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "PMU measurements used for protection functions have a minimum delay allowance of 60 ms. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Communication between entities within the Distribution SCADA Zone cannot be carried over the Internet. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Power line communication has only been used for voice communication and not for data transmission over high-voltage lines. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "All three protocols—TCP, SCTP, and SSTP—support multihoming or multiple streams. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Probabilistic techniques are applied in power systems simulation and modelling to address uncertainty from load variations and renewable generation. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The study found that a conventional silicon PV cell provides higher power output than a tandem cell. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "According to the passage, providing incentives to wind power producers during times of excess wind power production completely eliminates the risk of wind curtailment. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Operational security concerns related to renewable energy integration cannot be minimized by using suitable technologies and control strategies. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "According to the passage, the planning and operational paradigms of traditional power systems do not require any changes with the adoption of smart grids. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Australia’s PHESS capacity has increased significantly in the past 30 years. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The diversity factor of the load connected to the transformer in Example 1.3 is 2. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "To obtain the per-phase solution of a three-phase transformer system, it must always be represented by three single-phase transformers. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The three phase rated interrupting MVA capacity of a circuit breaker is calculated by multiplying the rated line voltage by the rated interrupting current, without any other factor. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Corona in transmission lines is associated with power loss, radio and TV interference, and audible noise. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The U.S. Department of Energy recommends the same R-value insulation for all regions of the nation. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "All electric utilities, regardless of size, maintain in-house load forecasting capabilities. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In polynomial regression models, higher-order terms of qualitative predictor variables provide additional information beyond the first-order term. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "According to the passage, PLM always outperforms GLM when the upper and lower boundaries are symmetric to the nominal center. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The most commonly available Smart Fabric elements in the commercial market are flexible silicon-based electronics and piezoelectric fibers. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Transportation 2.0 will eliminate the need for domestically produced electricity as a primary source of fuel for mobility. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Increasing the switching frequency of the inverter always improves power quality without any drawbacks. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The preferred material for busbars in power converter design is copper due to its low resistivity. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In indirect field-oriented control (IFOC) of AC induction machines, the slip frequency is calculated using the rotor resistance, rotor inductance, and q- and d-axis stator currents. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Lithium-ion cells use aqueous electrolytes because lithium is not highly reactive with water. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The German Automobile Manufacturers Alliance (VDA) has established performance guidelines for low voltage (LV) systems under 60 V, optimized for operation around 48 V. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Micro hybrids can provide up to 10% fuel economy benefits, especially in urban driving situations. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The 3.3 kW on-board battery charger designed by Delta-Q Technologies Corporation uses a two-channel interleaved boost converter as its front-end PFC topology. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "By 2011, the production battery price for PHEVs was approximately $700/kWh to $900/kWh, which met the United States Advanced Battery Consortium (USABC) long-term goal of $100/kWh. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The main unit for battery capacity is the kilowatt-hour (kWh). (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The passage states that traditional rural communities, despite being very poor, often possess significant amounts of social capital within the community or certain subgroups. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "There is a single optimal size for Water Users' Associations (WUAs) that ensures maximum effectiveness. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The standard per unit equivalent circuit shown in Figure 4.3 is adequate for stability and load flow studies of transformers. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The Meissner effect causes a superconductor to expel magnetic fields from its interior when cooled below its critical temperature. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The specially constructed sports hall for Rogue Game at Spike Island occupied less than half of the gallery floor-space. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "As of January 1, 1922, the Fitzgerald electric crucible furnace was in commercial use in the United States. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The Bocuze furnace design involves a crucible that rotates on its vertical axis and is heated by two arcs that move up and down. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The electric furnace power cost per kilowatt-hour decreases as the scale of operation increases, with Case 4 having the lowest cost among the cases described. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The maintenance stage is considered significant for the life cycle assessment (LCA) of energy related renovation measures and must be included. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The reference study period for LCA in Annex 56 is suggested to be 60 years. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The main advantage of direct-methanol fuel cells (DMFCs) is their high energy efficiency. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The average 137Cs fallout reference for the Houay Pano catchment in 1963 was assumed to be 615 Bq m-2. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Soil and water conservation measures have a positive impact on soil organic carbon (SOC) stocks because they reduce total organic carbon (TOC) losses and increase biomass deposited over or into the soil. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The dissipated powers on R¹ and R² during the simulation are calculated both by SPICE and by a state space energy approach. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The UPFC considered in the SMIB case study is based on pulse width modulation (PWM) converters. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "During the mitigation phase, the buck CCS generates an anti-ripple current that compensates for the output current ripple in the HPS operation regime. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Photovoltaic and solar thermal systems are easier to integrate into existing buildings than geothermal heat pumps. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The trend \"Acceleration of technological breakthroughs\" has the highest impact score among all listed trends. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The International Energy Agency (IEA) was established in 1974 within the framework of the Organisation for Economic Co-operation and Development (OECD). (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The effective solar collecting area of opaque building components is calculated using the projected area, exterior thermal heat resistance, thermal transmittance, and absorption coefficient according to national standards. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The SPS is used to maintain active power flow towards Main at 40 MW in the modified network. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Static compensators used in electric power systems have no moving parts, unlike synchronous condensers. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The flying capacitor multilevel converter topology automatically balances the voltages of the capacitors under ideal conditions. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The SVC in closed-loop mode restores the voltage at the load point to its original value of 0.96 p.u. after an increase in load. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The SSTS is capable of regulating voltage and generating or absorbing reactive power. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The D-STATCOM test power system described in the passage uses a three-phase voltage source rated at 100 MVA and 230 kV. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In electrical power systems, very high voltage (VHV) is used for transmission lines carrying powers between hundreds and thousands of MVA. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The Total Harmonic Distortion (THD) is defined as the ratio between the distortion residue of the signal and the fundamental rms value. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The passage provides explicit formulas for calculating apparent, active, reactive, and distortion power for a single-phase consumer, including the units for each. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Only the component of current out of phase with voltage generates active power that does the real work. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "STATCOMs are affected by degraded voltage in terms of their capacity to provide reactive power. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The fuzzy clustering method categorizes all PQ buses in the test system into three sets: {79}; {78, 76, 81}; and {other PQ buses}. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The particle swarm pattern search algorithm reduced active power losses in the 6-bus power system by approximately 17%. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The \"! Load Flow Calculation\" section in the provided DIgSILENT script is responsible for executing the load flow analysis on the power grid. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The reactive power optimization objective function in the passage penalizes the cost function if there is a voltage violation at PQ busbars. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The SCADA system for the hydroelectric plant uses both telephone line and radio communication protocols for redundant communication with HEDs via DAS serial ports. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The installed capacity of solar power in India until March 2016 was 6763 MW. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The paper claims that the incremental conductance (IC) method tracks the maximum power point more efficiently with reduced ripples when its step size is less. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The SEPIC converter used in the study provides both buck and boost operation with less stress on components and less ripples. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Single-stage boost inverters are suitable for nanogrid applications because they can both buck and boost the available DC input voltage. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Direct-coupled PMDC motor-driven solar water pumping systems are less expensive because they do not require batteries as energy storage elements. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The proposed wireless remote monitoring system for solar photovoltaic (PV) plants uses the MQTT protocol for machine-to-machine connectivity. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The paper concludes that a PI controller enables a standalone microgrid system to maintain constant terminal voltage under source-side disturbances. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Biogas typically consists of about 60% methane and 35% carbon dioxide, along with impurities such as hydrogen, hydrogen sulfide, and nitrogen. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The DRFC algorithm reduces the number of relay nodes required for connectivity from 27 to 22 in the sample topology. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "FACTS devices can modify the composite reactance of a transmission path to control power flow in AC grids. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Machine learning can be broadly classified into supervised and unsupervised learning, with supervised learning involving labeled training data. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The laboratory discussed in the passage was established primarily to develop and test the functionality of new energy technologies. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The chapter argues that pilot and demonstration projects are solely technological experiments without political significance. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The Telegestore project in Italy involved the installation of 32 million smart meters between 1999 and 2006. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The King Island Renewable Energy Integration Project (KIREIP) resulted in a 65% reduction in diesel consumption on King Island through an automated system. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "According to the passage, the governing color of the fifth chakra is indigo. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The GreenMind architecture is designed to integrate multiple building consumer subsystems and devices to provide continuous near-optimal energy control. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The most aggressive control model tested in the experiments was able to put a PC into sleep mode for an average of 0.49 hours per day. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The methodology developed by Kapsalaki et al. (2012) for economic efficient design of Net Zero Energy Buildings is applicable to existing buildings. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The singular-G method uses a singular compensator with a determinant equal to zero to address both the non-minimum phase problem and instability in MIMO systems. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The reformulated Method 4 for MIMO QFT compensator design avoids the former assumption of diagonal dominance. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The existence of a common quadratic Lyapunov function (CQLF) is always necessary and sufficient for exponential stability in linear switching systems. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The type certificate for wind turbines requires completion of design evaluation, prototype testing, and manufacturing evaluation. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The kinetic energy \\( E_k \\) of the DD WT system includes terms for both translational and rotational motion. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The estimation of the thermal impedance parameters for each furnace zone (*zii*(s)) was performed using closed-loop PID control experiments that maintained equal temperatures in all zones. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The EAGLE system has been designed for three different power capacities: 2.5 kW, 25 kW, and 100 kW. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The proposed QFT methodology for fragility analysis accounts for both plant model uncertainty and uncertainty in controller coefficients. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In transform coding, a video frame is usually subdivided into smaller blocks and a reversible linear transform is applied to these blocks. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "AVC is one of the three compression standards used for Blu-ray, alongside MPEG-2 and VC-1. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Compression artifacts are only present in compressed video signals and do not occur in other types of compressed signals. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The SSIM measurement system separates similarity measurement into comparisons of luminance, contrast, and structure. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In the hibernation (Suspend-to-Disk) state, the system context is maintained on the disk, allowing the state of the OS, applications, and open documents to be preserved. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In the G1/S3 (Suspend-to-RAM) state, the system context is maintained on system DRAM and all power is shut to the noncritical circuits. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The ANTINOMOS project focuses on multi-agent learning and sharing of water technologies in informal contexts within the European Union. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Recent trends in parking policy focus on enlarging the parking supply to meet increased demand. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The alignment method was determined to be more appropriate than the manual method for loading data into the GIS model for the town of Crotone. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "According to the passage, Italy increased its share of renewable energy sources in final energy consumption from 5.8% to 15.6% between 2005 and 2013. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Traditional RNNs are able to effectively process long-term dependencies in input sequences. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "AOAI's models can assist in identifying key clauses such as termination, indemnification, and confidentiality within a contract. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The passage states that the Ocotillo Express Wind Energy Facility (OWEF) case highlights challenges in using high habitat quality public lands for energy development. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Micro-hydropower systems can produce between 5 kW and 100 kW of electricity depending on the resource and design. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The relationship between temperature and electricity load in the GEFCom dataset can be adequately captured by linear correlation. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Smart meters and the smart grid will enable the production of large amounts of data that can be used for demand forecasting to improve grid efficiency and longevity. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The study's definition of social protection excludes programs traditionally associated with the health and education sectors, such as immunization and primary education. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The passage states that there is a perfect correlation between the level of development based on the HDI and the level of social protection among the countries analyzed. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The static stability limit curve for a synchronous machine is also known as the pull-out curve of P and Q. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The Newton-Raphson method is widely accepted in industry for solving load-flow problems. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The delay angle α in a three-phase bridge converter can be advanced beyond 0° to increase the average direct voltage Vdo. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In Problem 7-8-39, the rectifier's transformer tap ratio is 1.03. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The relay at bus 2 has a current transformer ratio of 400/5. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The incremental cost of power delivered λ(t) for P_D(t) = 500 MW is 3.07. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The capacitor-assisted topology allows for much higher boosting with the same shoot-through value compared to other topologies discussed. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The five-level switched capacitor inverter described in the passage produces an output voltage peak value equal to the input DC voltage E. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The TSO 50Hertz grid area delivered less than 20% of all the renewable energy supplied to the German power system in 2015. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Increasing the discount rate results in a significant increase in the power and energy of optimal storage. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "By 2050, the European Union aims for renewables to account for 50% of gross power generation. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The first diabatic compressed-air energy storage (CAES) system was built in McIntosh, Alabama, USA. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The Type 2 connector, also known as the Mennekes plug, is the most widely established approach for AC charging in Europe. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The passage states that all causes of malfunctions in the electricity supply are due to external events such as storms and lightning strikes. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Artificial Neural Networks (ANN) have been used to derive power system dynamic equivalents for both conventional power systems and distribution networks with significant distributed generation. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Balanced realizations technique cannot preserve the controllability and observability properties of the original system. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Black-box modelling assumes only a reduced knowledge about the physics of the system and is derived from measured data. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Global optimization methods are generally preferred over local optimization methods for system identification problems due to their faster convergence. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "According to the passage, renewable energy sources such as wind, tidal, solar, and biomass currently have a dominant share in global electricity generation. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "When line b trips, the voltage in the network decreases due to the loss of loads bl, cl, and dl. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The simulation results in the paper demonstrate that the proposed control scheme is slower than swarm control. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The study's tests on distribution networks included only Solar PV and Wind Energy sources, excluding the existing grid. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "According to the passage, the installation of Distributed Generators (DGs) in the utility's distribution system is expected to have no impact on its reliability. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The Smart Grids topology described in the passage eliminates the need for competition between wholesale and retail electricity dealers. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In many countries, islanding of medium voltage (MV) systems is encouraged to leverage the advantages of Distributed Generation (DG). (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Solar and wind power generating facilities are able to provide baseload capability. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Geothermal power generation is only possible in regions located at plate boundaries. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Sedimentary rocks are exclusively composed of granular textures and cannot be massive or homogeneous. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In geothermal systems, the chemical composition of phases cannot provide information about the temperature and pressure the system has experienced. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Caldera-type geothermal systems typically have low permeability throughout all units. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Mantle-derived fluids have 3He/4He ratios that cannot be distinguished from those of crustal fluids. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "According to the passage, all geothermal resource reserves are located far from recently active volcanic centers. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The calculated maximum mass flow rate of cooling water required to condense all the steam from the turbine is 59.2 kg/s. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Achieving precise and accurate control of fracture development and propagation during EGS stimulation is currently a solved technological challenge. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The concentration of CO₂ in geothermal fluids is higher in high temperature reservoirs. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "According to the passage, private companies have a dominant presence in the Greek energy sector. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The three Gas Supply Companies (EPAs) in Greece were all founded before the year 2000. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The passage claims that the used car market is less influenced by supply and demand forces than the new car market. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The basic moving average trend-following system described uses a 20-period weighted moving average and a 56-period simple moving average to generate buy and sell signals. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The fair value valuation zone in a customized cocoa bull market Value Chart is identical to that in a normal Value Chart, both ranging from –4 to +4 Value Chart price levels. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "According to the passage, logistics management is considered a separate field from supply chain management and is not part of it. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "By 2050, shipping is projected to account for less than 10 percent of total CO2 emissions. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Data Envelopment Analysis (DEA) is exclusively used for benchmarking the performance of manufacturing operations. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The passage states that almost 54% of fair trade coffee product certified at the EU amounts to approximately 91 thousand tons of volume in coffee product trade. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "During November and December 2013, all countries except Belgium and Spain had positive commercial exchange values with France. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The payback period for the new technology is the same for all boiler rooms. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The DOE's project objective includes supporting research in wind energy technologies. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Annealing CuGaSe2 films results in the formation of observable secondary phases. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The project includes a cost share funding component from participating organizations. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The uncertainty in efficiency measurements with respect to standard reference conditions is always less than ±1% regardless of sample size or geometry. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Ti thin films used for gettering in PV silicon wafers were deposited exclusively in pure argon plasma. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In FY2000, the NREL team completed commercial-scale deployment of ultra-high rate hotwire chemical vapor deposition (HWCVD) for all active solar cell layers. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In 2000, the DOE provided more funding to Global Solar Energy, LLC for this project than in 1999. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Directional solidification is the most effective technique for removing boron from metallurgical grade silicon. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The Energy Storage Unit in the integrated residential PV system has a capacity of 20kWhr. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The FSEC contract for PV module durability research was active throughout FY 2001. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "A completed and fully released version of Energy-10 with photovoltaic system design capability was available before November 2000. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Major reports on the thin-film module validation project were published in FY 2000. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In 2000, DOE allocated $139,851 in funding to the Photovoltaics Program Technical Support contract. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Forward Error Correction (FEC) is more commonly used than Automatic Repeat ReQuest (ARQ) in sensor networks due to its lower retransmission overhead. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "In FY2005, the Navy spent over $1.5 billion on fuel for its ships and aircraft. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The US Navy has awarded a grant to Solar Sailor Holdings Ltd. for the development of unmanned ocean vehicles powered exclusively by diesel engines. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The phase angle between voltage and current in a practical resistive-inductive (RL) circuit increases as the resistance of the circuit increases. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The economizer in a power plant is primarily used to convert steam into water. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The induced voltage in a single conductor of a generator varies according to the cosine of the angle of rotation between the conductors and the magnetic field. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Thermal overload relays for motor protection never use bimetallic heater elements. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Metal-clad cable uses a plastic covering instead of a flexible spiral metal covering. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Office buildings require 3 watts of lighting per square foot according to Table 13-3. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The stator coils of a synchro unit are placed 90° apart inside the housing. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Part-winding starting is suitable for all types of heavy-load applications due to its high starting torque. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "States of charge of storage facilities directly influence the power flow equations. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The effect of integrating distributed flexibilities on the generation adjustment in the central European transmission grid scenario for 2030 is large. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "The use of energy storage systems (ESS) on the demand side has no effect on smoothing the energy consumption curve in smart grids. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  },
+  {
+    "instruction": "Summarize the main points regarding the current and potential impact of artificial intelligence (AI) on U.S. national security and military operations as described in the passage. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "The passage highlights that artificial intelligence (AI) is rapidly advancing and has significant implications for national security, prompting the U.S. Department of Defense and other nations to develop AI for military functions such as intelligence, logistics, cyber operations, and autonomous vehicles. AI is already in use in military operations, and Congressional decisions will influence its future development and adoption. Key challenges include the predominance of commercial sector AI development, the need to adapt defense acquisition processes, ethical concerns, and resistance within the military. International competition, particularly from China and Russia, is intensifying, with both nations investing heavily in military AI. While AI could enhance decision-making and operational speed, it also introduces unpredictability and new vulnerabilities. Analysts disagree on the extent of AI's future impact, but most expect it to be significant. Congress faces issues related to funding, oversight, ethical considerations, legislative changes, and managing global competition in military AI."
+  },
+  {
+    "instruction": "Biomass is rarely economically distributed over distances greater than 500 km due to its low density and bulkiness. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In 2010, solar power accounted for 0.5% of California's electricity production, while wind and geothermal made up most of the renewable share. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The US Department of Energy and the National Renewable Energy Laboratory have created an online application that aggregates data on cost estimates for electricity generation. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "According to the passage, new main generating plant on the system would be either nuclear or coal. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Coconut shells are considered a good source material for charcoal production, while coconut wood or husks are not. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The weight of the conductor for the overhead transmission line in question 15.4 is 0.407 kg/m. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Regenerative braking allows a vehicle to increase its fuel economy and driving range while reducing its carbon footprint. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "For salient pole machines, the q-axis saturation factor Sq is assumed to be equal to 1 when calculating power system transient stability. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Gerhard Richter fabricated several 'architectural sculptures', including 4 Glasscheiben (1967) and 9 Stehende Scheiben (2002/2010). (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In 1918, the Chicago Bearing Metal Co. operated both Snyder and Rennerfelt furnaces on two shifts for leaded bearing bronze. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The use of air renewal systems and adequate ventilation rates in building renovations can reduce humidity levels and prevent condensation. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In scenario four, blockchains have replaced the functions of the energy supplier, data facilitator, and market operator. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "In a three-phase system, the apparent power S can be calculated as the product of the square root of the sum of the squares of the phase voltages and the square root of the sum of the squares of the phase currents. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The State of Wyoming enacted a law in 1919 that prohibited the use of natural gas for the manufacture of carbon black. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "California has a mandated Renewable Portfolio Standard (RPS) goal of 33% by 2020. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The passage claims that in most cases, yoga and massage teachers act out of love for their work or respect for their traditions, rather than for harmful reasons. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The plant defined in Example 1 has two real poles and zero real zeros. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "According to the passage, a resilience-based approach is essential for moving cities towards more sustainable and less energy consuming urban development patterns. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "Adagrad maintains a different learning rate for each parameter during neural network training. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "For a cylindrical conductor, the magnetic field intensity at a point outside the conductor (x > r) is given by \\( H(x) = \\frac{I}{2\\pi x} \\). (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "True"
+  },
+  {
+    "instruction": "The passage provides detailed performance metrics for photovoltaic modules and arrays. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "NOT-ENOUGH-INFO"
+  },
+  {
+    "instruction": "The SCAPS-1D simulation package was found to be slower than the AMPS-1D package for modeling CIS/CIGS devices. (Just give a True/False answer without explanation.)",
+    "input": "",
+    "output": "False"
+  }
+]
