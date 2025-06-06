@@ -1,0 +1,1272 @@
+[
+  {
+    "instruction": "Which of the following technologies or concepts can contribute to increasing the efficiency or commercial viability of photovoltaic (PV) systems? (Just give the options without explanation.)",
+    "input": "A: Use of multijunction solar cells under concentrated sunlight\nB: Spectral splitting with band gap-matched solar cells\nC: Dye-sensitized solar cells with nanocrystalline TiO₂ and ruthenium dyes\nD: Passive cooling of PV modules without energy recovery",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following factors contribute to the practical efficiency of a Pelton wheel turbine being less than the theoretical maximum? (Just give the options without explanation.)",
+    "input": "A: Friction losses between water and the cup surface\nB: Disturbance of the incoming jet by reflected water and subsequent cups\nC: Non-perpendicular impact of water jets on turbine cups\nD: Atmospheric pressure differences at the nozzle exit",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following factors are important when selecting optimal sites for wind turbine installation? (Just give the options without explanation.)",
+    "input": "A: The presence of large obstructions such as buildings or trees near the turbine site\nB: Consistent wind direction and speed, as indicated by wind rose and statistical analysis\nC: Smooth, dome-shaped hills that are clear of other hills and have a good fetch\nD: Placement of turbines at low heights (e.g., below 10 m) to minimize tower costs",
+    "output": "BC"
+  },
+  {
+    "instruction": "Which of the following are practical advantages of integrating wind farms with agricultural land use? (Just give the options without explanation.)",
+    "input": "A: Wind turbines occupy only a small portion of land, allowing continued farming activities underneath.\nB: Wind farms significantly reduce soil erosion compared to traditional agriculture.\nC: Wind energy production provides an additional revenue stream for landowners.\nD: Wind turbines eliminate the need for irrigation in agricultural fields.",
+    "output": "AC"
+  },
+  {
+    "instruction": "Which of the following are practical benefits of using coppicing techniques in energy plantations? (Just give the options without explanation.)",
+    "input": "A: Reduces labor costs associated with planting and weeding\nB: Increases soil erosion compared to repeated replanting\nC: Allows for more frequent harvesting cycles than traditional timber forestry\nD: Promotes natural regeneration without the need for any human intervention",
+    "output": "AC"
+  },
+  {
+    "instruction": "Which of the following are key features of the Pelamis wave-power device? (Just give the options without explanation.)",
+    "input": "A: It consists of articulated cylindrical sections connected by hinged joints.\nB: It is anchored to the sea bed with a rigid fixed foundation.\nC: It generates electricity using hydraulic motors powered by wave-induced motion.\nD: It is designed to automatically detune from high-power waves to increase survivability.",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are key methods used for extracting geothermal energy for electricity generation or heating applications? (Just give the options without explanation.)",
+    "input": "A: Utilizing natural hydrothermal circulation where water is heated underground and returns as steam or hot water\nB: Harnessing heat from hot igneous systems associated with semi-molten magma\nC: Artificially fracturing dry rock to allow water circulation and heat extraction\nD: Using surface solar panels to convert sunlight directly into electricity",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following factors can contribute to reduced efficiency in hydro or wind energy systems? (Just give the options without explanation.)",
+    "input": "A: Turbulence at entry and exit points of turbines\nB: Frictional losses within the system\nC: Maximum theoretical power extraction limits\nD: Use of laminar flow in large-scale wind energy conversion",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following practical challenges are faced by low-income urban households in informal settlements regarding energy use? (Just give the options without explanation.)",
+    "input": "A: Limited access to reliable electricity supply and appliances\nB: Dependence on improvised or secondhand energy conversion devices\nC: Consistent availability of modern cooking fuels such as LPG\nD: Need to use unconventional materials as fuel during shortages",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key challenges currently affecting the wood pellet and bioenergy market in Belgium? (Just give the options without explanation.)",
+    "input": "A: Lack of a national certification and quality control system for pellets used in private and public sectors\nB: Competition for raw materials with the pulp and paper industry, leading to price increases\nC: Economic downturn and low fossil fuel prices reducing investments in wood energy projects\nD: Excess domestic demand for biomass, resulting in minimal exports",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical benefits of solar photovoltaic (PV) systems for energy access and reliability in remote or rural areas? (Just give the options without explanation.)",
+    "input": "A: Ability to generate electricity off-grid, reducing dependence on centralized infrastructure\nB: Suitability for integration with batteries to provide power during periods without sunlight\nC: Inability to be installed on rooftops, limiting deployment options\nD: Reduction of power outages in regions with unreliable grid connections",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are significant challenges associated with integrating large amounts of wind and solar energy into the power grid? (Just give the options without explanation.)",
+    "input": "A: Variability in energy production due to weather and seasonal changes\nB: Need for substantial increases in energy storage capacity\nC: High land-use footprint compared to nuclear power\nD: Continuous, predictable energy output regardless of conditions",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the function and impact of Renewable Energy Certificates (RECs) in the energy market? (Just give the options without explanation.)",
+    "input": "A: RECs allow organizations to support renewable energy generation without directly purchasing or installing renewable energy equipment.\nB: RECs are only available in regions with mandatory renewable energy policies and cannot be traded in voluntary markets.\nC: Purchasing RECs can help utilities and companies meet regulatory requirements for renewable energy targets.\nD: Each REC represents the generation of a specific amount of electricity from an eligible renewable energy source.",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are commonly recognized as renewable energy sources due to their ability to regenerate or replenish naturally? (Just give the options without explanation.)",
+    "input": "A: Wind\nB: Solar\nC: Nuclear Fission\nD: Geothermal",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are essential requirements for trigger devices in HVDC converter systems? (Just give the options without explanation.)",
+    "input": "A: Synchronization to the network voltage and phase reference of the valve voltage\nB: Adjustable limitation of the control angle to maintain it within specified bounds\nC: Emission of special trigger pulse patterns for rapid establishment or release of valve auxiliary paths\nD: Maintaining a fixed trigger pulse pattern regardless of network conditions",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following factors can contribute to contamination of insulator surfaces in high-voltage transmission systems? (Just give the options without explanation.)",
+    "input": "A: Salt fog in coastal areas\nB: Agricultural deposits such as fertilizers and combustion residues\nC: Industrial pollution from sources like coal mining and cement plants\nD: High ambient temperatures alone",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are effective strategies for reducing the cost and improving the performance of Concentrated Solar Power (CSP) plants? (Just give the options without explanation.)",
+    "input": "A: Improving the optical efficiency of the solar field and reducing thermal losses\nB: Lowering operation and maintenance costs through automation and self-cleaning technologies\nC: Increasing the use of synthetic oils in heat transfer systems for higher operating temperatures\nD: Reducing equipment capital costs by using more efficient designs and less expensive materials",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are advantages of using Adjustable Speed Drives (ASDs) in commercial building HVAC systems? (Just give the options without explanation.)",
+    "input": "A: Improved part-load efficiency, reducing energy consumption during non-peak periods\nB: Enhanced ability to oversize equipment for safety margins\nC: More precise control over fan and chiller operation, leading to potential energy savings\nD: Increased equipment wear due to frequent speed adjustments",
+    "output": "AC"
+  },
+  {
+    "instruction": "Which of the following measures can significantly reduce electricity consumption in commercial display cabinets? (Just give the options without explanation.)",
+    "input": "A: Using night covers to reduce convection and radiation losses\nB: Installing radiation shields during opening hours\nC: Selecting appropriate compressors with adapted valves and ports\nD: Increasing the volume of open display cabinets",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are potential international impacts of U.S. appliance efficiency standards? (Just give the options without explanation.)",
+    "input": "A: Foreign markets served by U.S. manufacturers may benefit from more energy-efficient appliances.\nB: Foreign manufacturers producing advanced energy-efficient products could gain greater access to the U.S. market.\nC: U.S. manufacturers are likely to continue producing less efficient appliances for export to foreign markets.\nD: Adoption of similar efficiency standards in other countries could stimulate local manufacturers to innovate and compete globally.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following methods have contributed to energy efficiency improvements in the cement and chemical industries? (Just give the options without explanation.)",
+    "input": "A: Introduction of new suspension pre-heater kilns in cement production\nB: Use of ion exchange membrane method for sodium production\nC: Recovery of excess heat to generate electricity\nD: Complete reliance on heavy oil as the main fuel source",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following technologies or methods are used to improve power quality in modern electrical systems? (Just give the options without explanation.)",
+    "input": "A: Shunt active filters for harmonic compensation\nB: Grid impedance identification using active filters\nC: Frequency-domain active filtering for current harmonics\nD: Photovoltaic (PV) panels for direct voltage regulation",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following factors are important considerations when estimating the regional energy potential from forested areas with mixed tree species and land uses? (Just give the options without explanation.)",
+    "input": "A: Variations in tree species growth rates across different regions\nB: Accessibility of biomass resources for harvesting\nC: Intercropping practices and their impact on available forest cover\nD: Uniformity of land ownership and management schemes",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical benefits of integrating electric vehicles (EVs) with the power grid in a smart energy system? (Just give the options without explanation.)",
+    "input": "A: Enabling EV owners to profit by charging during off-peak and discharging during peak energy rate periods\nB: Supporting utilities in managing peak electricity demand and reducing transmission/distribution losses\nC: Allowing EVs to operate independently from the grid, eliminating the need for grid infrastructure\nD: Facilitating secure billing and authentication processes between EVs and utility providers",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following measures are effective in enhancing the cybersecurity of Advanced Metering Infrastructure (AMI) networks in smart energy systems? (Just give the options without explanation.)",
+    "input": "A: Timely application of system patches to address known vulnerabilities\nB: Implementation of strong communication authentication and protected inter-network communication\nC: Exclusive reliance on physical separation of communication channels for network security\nD: Use of firewalls and router access lists to control network traffic",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key considerations for transforming utility communication networks towards a Smart Grid architecture? (Just give the options without explanation.)",
+    "input": "A: Leveraging existing utility communication network assets to maximize efficiency\nB: Ensuring continued support for mission-critical applications in the integrated network\nC: Focusing solely on short-term cost benefits without considering long-term sustainability\nD: Addressing regulatory compliance requirements during network transformation",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are common constraints considered in optimal power flow analysis for electric power systems? (Just give the options without explanation.)",
+    "input": "A: Power balance constraints at each bus\nB: Generator real and reactive power limits\nC: Voltage magnitude limits at network buses\nD: Maximum power flow and thermal limits on transmission lines",
+    "output": "ABCD"
+  },
+  {
+    "instruction": "Which of the following technologies or strategies can enhance the conversion efficiency of photovoltaic (PV) systems? (Just give the options without explanation.)",
+    "input": "A: Integration of thermoelectric generators (TEGs) to utilize waste heat\nB: Use of multi-junction solar cells to capture a broader spectrum of sunlight\nC: Application of Maximum Power Point Tracking (MPPT) algorithms\nD: Increasing PV cell working temperature beyond recommended limits",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are significant challenges introduced by high penetration of renewable power plants (RPPs) such as large-scale wind and solar in modern power systems? (Just give the options without explanation.)",
+    "input": "A: Reduction in system inertia leading to decreased rotor angle stability margins\nB: Increased system inertia improving frequency stability\nC: Emergence of new low-frequency modes with poor damping associated with converter control generators\nD: Greater reliance on synchronous generators to provide inertia and torque during instability events",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are key applications of energy storage systems in modern electricity networks? (Just give the options without explanation.)",
+    "input": "A: Supporting micro-grids and islanded energy supplies\nB: Enhancing the integration of renewable energy sources\nC: Reducing the need for short-term load forecasting\nD: Providing backup power during grid outages",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are advantages of using the per-unit (pu) system in power system analysis? (Just give the options without explanation.)",
+    "input": "A: Simplifies calculations by normalizing values across different voltage and power levels\nB: Eliminates the need for transformer modeling in system studies\nC: Facilitates direct comparison of electrical quantities in multi-voltage systems\nD: Reduces the likelihood of calculation errors due to unit inconsistencies",
+    "output": "ACD"
+  },
+  {
+    "instruction": "In the context of short circuit analysis for large power systems, which of the following statements are correct regarding the use of Thevenin’s theorem and bus impedance matrices? (Just give the options without explanation.)",
+    "input": "A: Thevenin’s theorem simplifies the network to an equivalent voltage source and impedance for fault analysis\nB: The bus impedance matrix (Z_BUS) is used to determine voltage changes at buses due to faults\nC: Thevenin’s theorem is only applicable to single-phase networks, not three-phase systems\nD: The prefault bus voltages are necessary for calculating post-fault conditions using network equations",
+    "output": "ABD"
+  },
+  {
+    "instruction": "When analyzing the mechanical properties of transmission line conductors, which of the following parameters are typically calculated to ensure structural reliability? (Just give the options without explanation.)",
+    "input": "A: Stress experienced by the conductor under load\nB: Strain resulting from elongation under tension\nC: Modulus of elasticity to assess material stiffness\nD: Electrical resistance to minimize power losses",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following statements accurately reflect the application and development of fuzzy logic systems for Short-Term Load Forecasting (STLF)? (Just give the options without explanation.)",
+    "input": "A: Fuzzy logic systems can incorporate expert knowledge and handle uncertainties in weather variables.\nB: Automatic fuzzy inference systems can be designed using historical data and learning algorithms.\nC: Fuzzy logic models are limited to only daily peak load forecasting and cannot be used for hourly forecasts.\nD: The selection of input variables for fuzzy models can be based on both engineering judgment and statistical analysis.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the practical design of power converters, which of the following are considered important aspects for ensuring efficient and reliable operation? (Just give the options without explanation.)",
+    "input": "A: Evaluation of semiconductor conduction and switching losses\nB: Selection of appropriate power modules for specific applications\nC: Implementation of snubber circuits to reduce switching losses\nD: Use of only passive cooling methods for all power modules",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the equivalent circuit modeling of induction machines, which of the following parameters or effects are typically considered or represented? (Just give the options without explanation.)",
+    "input": "A: Magnetizing reactance to account for the magnetizing current required due to the airgap.\nB: Iron losses represented by a resistance that is a function of frequency and magnetic flux density.\nC: Rotor resistance and leakage reactance referred to the stator side using the turns ratio.\nD: Variable stator resistance that changes with slip.",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following advancements contribute to improved efficiency and control in electric or hybrid vehicle power systems? (Just give the options without explanation.)",
+    "input": "A: Fuzzy logic control of hybrid energy storage systems\nB: Ripple-free input current DC–DC converters\nC: Passive resistor-based energy dissipation\nD: Active control of battery/ultracapacitor hybrid systems",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of battery selection for a 48-V BSG system, which factors directly impact vehicle performance and battery reliability? (Just give the options without explanation.)",
+    "input": "A: Power rating of the battery\nB: State of charge (SOC) management\nC: Battery operation at low SOC\nD: Use of only ultracapacitors for energy storage",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In hybrid electric vehicles, which operational aspects of electric motors require special consideration to ensure optimal powertrain performance? (Just give the options without explanation.)",
+    "input": "A: Wide speed range operation for varying vehicle speeds\nB: Wide torque range to accommodate both acceleration and regenerative braking\nC: Ability to operate without any thermal management\nD: Smooth torque control at low speeds for hill-hold and creep performance",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of implementing control systems for hybrid energy storage (battery and fuel cell) applications, which of the following are important considerations for ensuring effective power split and system stability? (Just give the options without explanation.)",
+    "input": "A: Accurate design of the energy management strategy to determine the proportion of energy from each source\nB: Theoretical foundation of the controller used in the Energy Control Unit (ECU)\nC: Electromechanical implementation challenges affecting real-world controller performance\nD: Ignoring sample time and hardware limitations in the ECU",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of the classical model for synchronous machines used in stability studies, which of the following assumptions are typically made? (Just give the options without explanation.)",
+    "input": "A: The machine is represented by a constant voltage behind transient reactance\nB: Input mechanical power is assumed constant\nC: Damping effects are considered significant\nD: Loads at machine terminals are represented by constant impedance or admittance",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In practical power system modeling, which statements about the use of equivalent circuits for transmission lines are correct? (Just give the options without explanation.)",
+    "input": "A: π-equivalent circuits can be used to model transmission lines for stability studies.\nB: π-equivalent circuits assume the line is transposed, resulting in symmetric phase impedances.\nC: The π-equivalent model is only suitable for very short transmission lines.\nD: Cascaded π-equivalent circuits can provide more accurate modeling for longer lines.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are true about recurrent neural networks (RNNs) compared to multi-layer perceptrons (MLPs)? (Just give the options without explanation.)",
+    "input": "A: RNNs have feedback connections that allow information to flow backward as well as forward.\nB: RNNs are easier to train than MLPs due to their dynamic memory.\nC: RNNs are suitable for modeling dynamic systems because of their memory capabilities.\nD: RNNs lack the ability to process sequential data.",
+    "output": "AC"
+  },
+  {
+    "instruction": "When analyzing synchronous machine stability using state-space models and participation factors (PFs), which of the following statements are correct? (Just give the options without explanation.)",
+    "input": "A: Participation factors help identify which state variables are most involved in specific modes of system behavior\nB: Participation factors can be used to develop reduced-order models that retain key dynamic characteristics\nC: The state-space approach assumes constant mechanical input torque and exciter output voltage in this context\nD: Participation factors are used to calculate the physical dimensions of transmission lines",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of improving transient stability in a power system using an FC-TCR compensator, which of the following practical considerations are important? (Just give the options without explanation.)",
+    "input": "A: Proper initialization of SVC state variables after the power flow solution\nB: Strategic placement of the SVC at system buses based on stability analysis\nC: Use of a PV generator bus with zero active power during power flow calculations\nD: Permanent removal of the SVC after the fault is cleared",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are major challenges or considerations in power system planning? (Just give the options without explanation.)",
+    "input": "A: Accurate forecasting of future electricity demand and fuel costs\nB: Minimizing greenhouse gas emissions as part of planning objectives\nC: Determining optimal locations for new generation and transmission facilities\nD: Ensuring that only short-term operational costs are considered",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which design features or operational practices are relevant for improving the practicality and efficiency of electric furnaces for copper and brass melting? (Just give the options without explanation.)",
+    "input": "A: Using large, square carbon electrodes to maximize contact area\nB: Eliminating the forehearth and channel to simplify construction\nC: Operating at higher voltages to reduce current and associated losses\nD: Keeping the furnace hot continuously to prevent metal from solidifying in critical areas",
+    "output": "ABCD"
+  },
+  {
+    "instruction": "Which features or practices were implemented to improve efficiency and safety in the operation of Detroit rocking electric furnaces? (Just give the options without explanation.)",
+    "input": "A: Mechanically dumped buckets for charging the furnace\nB: Removable plug doors operated by a jib crane\nC: Electrode holders allowing full withdrawal of electrodes during charging\nD: Use of coke as the primary fuel source",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following factors contribute to the efficiency and cost-effectiveness of electric rotating furnaces in foundry operations? (Just give the options without explanation.)",
+    "input": "A: Low electrode consumption per ton of metal melted\nB: High lining life, allowing for extended operation between maintenance\nC: High power consumption per ton of output\nD: Ability to handle dirty concentrates with significantly reduced metal loss compared to crucible methods",
+    "output": "ABD"
+  },
+  {
+    "instruction": "What are some of the challenges and trends associated with the adoption of hydroelectric power for industrial processes in the early 20th century? (Just give the options without explanation.)",
+    "input": "A: High capital investment and long construction times for hydroelectric plants\nB: Immediate and widespread availability of cheap hydroelectric power\nC: Centralization of power generation into larger, more efficient units\nD: Limited water power resources in certain regions, such as England",
+    "output": "ACD"
+  },
+  {
+    "instruction": "When financing a residential PV system, which of the following options and factors can help make the investment more cost-effective? (Just give the options without explanation.)",
+    "input": "A: Including the PV system cost in a new or refinanced mortgage for longer terms and lower rates\nB: Seeking conventional bank loans with the shortest possible repayment term\nC: Ensuring the interest paid on a mortgage loan is tax-deductible, if applicable\nD: Comparing multiple financing options to find the best combination of low interest rate and long repayment term",
+    "output": "ACD"
+  },
+  {
+    "instruction": "In the context of cost-effective building renovation, which of the following measures are important for supporting decision-makers such as building owners, investors, and policy makers? (Just give the options without explanation.)",
+    "input": "A: Development of supporting tools and guidelines\nB: Use of exemplary case studies to demonstrate best practices\nC: Restricting evaluation to residential buildings with complex technologies only\nD: Exploration of user acceptance and dissemination of findings",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following represent technologies or classifications relevant to high-voltage electric power transmission? (Just give the options without explanation.)",
+    "input": "A: Gas Insulated Lines (GIL)\nB: Ultra-high voltage (UHV) lines operating at 800–1200 kV\nC: AC and DC transmission lines\nD: Smart meters for consumer energy usage tracking",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of future smart energy markets (e.g., Germany 2030), which of the following trends are expected to support economic and sustainable electricity supply? (Just give the options without explanation.)",
+    "input": "A: Coordination between Smart Grid and Smart Market using ICT services\nB: Mandatory participation of renewable energy producers in market scheduling\nC: Increased deployment of fast-reacting controllable power stations and storage\nD: Decreasing prices for electricity produced from fossil fuels",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical challenges or trends in the development of smart energy systems and grid interoperability? (Just give the options without explanation.)",
+    "input": "A: The need for harmonization and reduction of alternative standards\nB: Integration of building automation data models with power system control protocols\nC: Establishing new standards for bulk power transmission lines in line with projects like DESERTEC\nD: Limiting smart grid development to a single utility type (e.g., electricity only)",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of European Union Framework Programmes for Smart Grid development, which of the following practices or trends are highlighted? (Just give the options without explanation.)",
+    "input": "A: Funding large-scale integration of distributed energy resources (DER)\nB: Emphasis on research into storage batteries and microgrids\nC: Exclusive focus on fossil fuel-based generation technologies\nD: Significant investment in ICT (Information and Communication Technologies) for energy systems",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which challenges and technological solutions are relevant for improving the performance of TES-based X-ray microcalorimeter arrays? (Just give the options without explanation.)",
+    "input": "A: Managing excess noise through advanced filtering techniques\nB: Implementing multiplexing to read out large sensor arrays efficiently\nC: Reducing energy loss with improved absorber geometry\nD: Increasing energy storage capacity using lithium-ion batteries",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are key parameters that must be optimized when designing TES (Transition Edge Sensor) X-ray microcalorimeters for high energy resolution? (Just give the options without explanation.)",
+    "input": "A: Heat capacity of the sensor\nB: Thermal conductance of the membrane\nC: Inductance of the wiring and SQUID\nD: Maximum photon energy range",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of integrating Deep Learning with IoT devices, which of the following real-world impacts are enabled or improved by DL analytics? (Just give the options without explanation.)",
+    "input": "A: Extraction of useful information and new patterns from large, heterogeneous IoT data\nB: Enabling real-time decision-making capabilities in IoT devices\nC: Complete elimination of all network complexity issues in IoT systems\nD: Improved handling of noisy sensor data generated in harsh environments",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following network performance parameters are critical for evaluating the quality of service (QoS) in Edge and cloud-based applications, especially for real-time data streaming? (Just give the options without explanation.)",
+    "input": "A: Throughput\nB: Delay\nC: Packet loss\nD: Jitter",
+    "output": "ABCD"
+  },
+  {
+    "instruction": "In the context of automotive wiring harnesses, which factors directly impact the resistance and performance of power cables? (Just give the options without explanation.)",
+    "input": "A: Wire gauge (AWG) and length of the cable\nB: Number and quality of electrical connections (terminations)\nC: Ambient and operating temperature\nD: Type of vehicle (e.g., sedan vs. SUV)",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of integrating fuel cell systems with utility grids, which of the following technologies or practices are commonly used? (Just give the options without explanation.)",
+    "input": "A: DC/AC inverters to convert fuel cell output to grid-compatible AC\nB: Digital control using DSPs or microcontrollers for inverter management\nC: Multi-level inverters to achieve higher voltage and lower harmonics\nD: Mechanical flywheels for voltage transformation",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of electric utility storm recovery, which of the following accurately describe Mutual Assistance Agreements (MAAs)? (Just give the options without explanation.)",
+    "input": "A: They allow utilities to \"borrow\" skilled line workers and equipment from other utilities\nB: They are voluntary arrangements typically made with utilities in unaffected regions\nC: They guarantee immediate restoration of services regardless of storm severity\nD: They include contingency plans to manage resource transfers with minimal regional impact",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which statements accurately reflect the role of coastal ecosystems and wetlands in hazard mitigation and resilience-building? (Just give the options without explanation.)",
+    "input": "A: Wetlands and floodplains help control floods in coastal and river basin areas\nB: Mangrove rehabilitation programs are implemented for coastal protection\nC: Coastal ecosystems' effectiveness against tsunamis is universally agreed upon\nD: Multi-partner initiatives have supported resilience-building in tsunami-affected countries",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following mechanisms are responsible for reducing hydrodynamic energy within mangrove ecosystems? (Just give the options without explanation.)",
+    "input": "A: Bottom friction from the mud surface\nB: Drag forces from complex root morphology\nC: Eddy viscosity from turbulent water motion through root gaps\nD: Solar energy absorption by mangrove leaves",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which features make decision-support frameworks like Coastal Resilience valuable for local and regional coastal hazard mitigation? (Just give the options without explanation.)",
+    "input": "A: Centralization and easy access to targeted information for diverse stakeholders\nB: Promotion of a single, predetermined outcome for all communities\nC: Flexibility to incorporate new data and adapt to changing conditions\nD: Facilitation of structured community dialogue and collaboration across agencies",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are key approaches or solutions to enhance resilience and reduce disaster risk in modified river basins? (Just give the options without explanation.)",
+    "input": "A: Adaptive water resources management aligning water allocation with changing flow regimes\nB: Restoration of river connectivity and floodplain storage through engineering interventions\nC: Exclusive reliance on traditional dam operation without ecological considerations\nD: Stakeholder engagement and integrated water resources management",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are recognized challenges or considerations in implementing ecosystem-based adaptation (EbA) and disaster risk reduction (DRR) measures? (Just give the options without explanation.)",
+    "input": "A: Monetary undervaluation of ecosystem services in cost–benefit analyses\nB: Need for integrated, cross-sectoral approaches involving land-use planning and community engagement\nC: Overreliance on a single ecosystem type (e.g., mangroves) without considering local context\nD: Guaranteed immediate economic returns for all stakeholders involved",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following lighting system design considerations can help improve both energy efficiency and worker productivity in garment factories? (Just give the options without explanation.)",
+    "input": "A: Adjusting lighting levels based on fabric colour and type\nB: Increasing lighting levels indiscriminately throughout the workspace\nC: Using task lighting tailored to specific visual functions\nD: Implementing general lighting only, without regard to task requirements",
+    "output": "AC"
+  },
+  {
+    "instruction": "Which of the following are practical benefits of integrating AI systems into military operations? (Just give the options without explanation.)",
+    "input": "A: Enabling rapid reaction to combat situations at speeds beyond human capability\nB: Increasing the endurance of surveillance and intelligence-gathering missions\nC: Ensuring complete predictability of system behavior in all scenarios\nD: Enhancing the ability to process and analyze vast quantities of data for actionable intelligence",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are typical characteristics of renewable energy sources such as solar, wind, and biomass? (Just give the options without explanation.)",
+    "input": "A: They are generally considered to have infinite supply lifetimes.\nB: They typically exhibit low and dispersed energy intensity (≤300 W/m²).\nC: Their costs per unit of capital equipment are usually lower than fossil fuels.\nD: Their output can be fluctuating and may require advanced control strategies.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following organizations are known for publishing authoritative reports or data on global energy resources, technologies, or trends? (Just give the options without explanation.)",
+    "input": "A: International Energy Agency (IEA)\nB: World Energy Council (WEC)\nC: Intergovernmental Panel on Climate Change (IPCC)\nD: European Wind Energy Association (EWEA)",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe characteristics and implications of solar radiation relevant to solar energy systems? (Just give the options without explanation.)",
+    "input": "A: Solar radiation at Earth's surface can reach maximum flux densities of about 10 kW/m² in the shortwave spectrum, which includes visible light.\nB: The majority of solar irradiance received at Earth's surface is in the infrared region, accounting for approximately 52% of the total.\nC: The solar constant (the average extraterrestrial irradiance at Earth's mean distance from the Sun) is approximately 1367 W/m².\nD: Annual variations in solar irradiance due to Earth's orbit and sunspot activity are significant challenges for solar energy system design.",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are commonly referenced standards or resources for understanding and measuring solar irradiance relevant to solar energy systems? (Just give the options without explanation.)",
+    "input": "A: ASTM standard reference spectra for solar irradiance at AM0 and AM1.5\nB: NASA’s solar system website for updated solar data\nC: World Meteorological Organisation’s Guide to Meteorological Instruments and Methods of Observation\nD: IPCC reports on climate change mitigation technologies",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are key advantages of evacuated tube solar collectors compared to traditional flat plate collectors? (Just give the options without explanation.)",
+    "input": "A: Reduced convective heat losses due to the vacuum insulation\nB: Ability to directly generate electricity from solar energy without additional systems\nC: Improved thermal efficiency at higher operating temperatures\nD: Effective absorption of both direct and diffuse solar radiation",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the behavior of minority carriers and current mechanisms in a p–n junction under thermal equilibrium (no illumination)? (Just give the options without explanation.)",
+    "input": "A: Minority carriers diffuse toward the depletion zone and, upon entering, are swept across by the built-in electric field.\nB: Generation current (Ig) and recombination current (Ir) are equal in magnitude, resulting in no net current across the junction.\nC: The net current across the junction is determined solely by the applied external bias, regardless of temperature.\nD: The recombination of carriers is most likely to occur within the depletion zone due to long transit times.",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following are important considerations for the successful and sustainable implementation of biomass energy systems? (Just give the options without explanation.)",
+    "input": "A: The availability of concentrated biomass feedstock near production sites\nB: The risk of deforestation and soil erosion from extensive biomass fuel use\nC: The use of biomass as a chemical feedstock or structural material instead of fuel\nD: The impossibility of using waste materials, such as crop residues, in energy production",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are significant social or environmental impacts associated with the construction and operation of tidal range power barriers? (Just give the options without explanation.)",
+    "input": "A: Reduction in areas of exposed mud flats, affecting bird habitats\nB: Increased access for boats to harbours within the basin\nC: Complete elimination of river flooding risks upstream\nD: Change in the local ecosystem, potentially altering unique ecological characteristics",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are advantages of using gelled lead acid cells compared to traditional flooded lead acid batteries? (Just give the options without explanation.)",
+    "input": "A: Reduced risk of acid spills and increased safety during transport\nB: Lower manufacturing cost due to simpler construction\nC: Maintenance-free operation with no need to top up electrolyte\nD: Improved tolerance to deep discharge due to immobilized electrolyte",
+    "output": "AC"
+  },
+  {
+    "instruction": "Which of the following are significant factors when evaluating the payback time and broader benefits of solar water heating systems compared to conventional electric water heaters? (Just give the options without explanation.)",
+    "input": "A: Initial capital cost differences between the two systems\nB: Annual energy cost savings due to reduced electricity consumption\nC: External benefits such as pollution reduction and avoided environmental fines\nD: The reliability of regional weather forecasts",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are challenges commonly faced in energy demand forecasting and planning in developing countries? (Just give the options without explanation.)",
+    "input": "A: Lack of reliable data on non-commercial energy sources such as firewood and biomass\nB: Overreliance on highly sophisticated econometric models requiring advanced computerization and specialized skills\nC: Difficulty in substituting biomass fuels with modern alternatives in rural settings\nD: Excessive availability of large-scale industrial data for urban energy planning",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical methods for utilizing forest residues and sawmill wastes as renewable energy sources? (Just give the options without explanation.)",
+    "input": "A: Pyrolysis to produce oil, char, and gas\nB: Acid hydrolysis and fermentation to produce ethanol or methanol\nC: Direct combustion for heat generation\nD: Mechanical compression into pellets for use as solid fuel",
+    "output": "ABCD"
+  },
+  {
+    "instruction": "Which of the following are major consumers of industrial energy in the construction sector? (Just give the options without explanation.)",
+    "input": "A: Road building and maintenance\nB: Iron and steel fabrication\nC: Earth moving equipment\nD: Timber processing",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical challenges associated with the use of alcohol fuels in transportation engines? (Just give the options without explanation.)",
+    "input": "A: The hygroscopic nature of alcohol fuels can lead to water absorption and engine issues.\nB: Alcohol fuels have poor lubricity, potentially causing increased engine wear.\nC: Alcohol fuels cannot be blended with conventional fuels in any proportion for use in standard engines.\nD: Supply chain issues and deficiencies in starch separation and hydrolysis can affect large-scale alcohol production.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the use and impact of ethanol as an alternative fuel for lighting and cooking? (Just give the options without explanation.)",
+    "input": "A: Ethanol can be produced locally from crops such as sugarcane and cassava, supporting energy independence.\nB: Ethanol lamps provide higher lighting density than kerosene lamps, making them a superior replacement in all cases.\nC: Ethanol is a clean-burning fuel and was historically used in lamps and stoves.\nD: Ethanol's volumetric performance is lower than kerosene, potentially requiring modifications to existing appliances for effective use.",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are key challenges facing the expansion of biomass fuel use in energy systems? (Just give the options without explanation.)",
+    "input": "A: High costs and logistical difficulties in collecting and transporting dispersed biomass residues\nB: Competition from alternative biomass sources that require less processing, such as olive pits\nC: Overly strict international legislation that limits biomass fuel imports\nD: Insufficient demand in local markets for biomass fuels",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are primary sources of renewable energy utilized for electricity generation? (Just give the options without explanation.)",
+    "input": "A: Solar energy\nB: Wind energy\nC: Biomass\nD: Natural gas",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are key technical targets for fuel cell backup power systems as set by the US Department of Energy for 2020? (Just give the options without explanation.)",
+    "input": "A: Increasing system durability to at least 10,000 hours\nB: Reducing equipment cost to $1,000 per kW\nC: Achieving start-up times of less than 15 seconds\nD: Limiting annual maintenance cost to $100 per kW",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are advantages of using high-temperature firebrick resistance heating systems (FIRES) for energy storage in smart energy grids? (Just give the options without explanation.)",
+    "input": "A: Ability to store excess electricity as heat during periods of low or negative electricity prices\nB: Inexpensive compared to battery storage, allowing absorption of large quantities of low-cost electricity\nC: Direct conversion of stored heat to mechanical work without efficiency losses\nD: Capability to replace expensive natural gas with cheaper electricity for peak generation",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are major challenges associated with implementing superconducting magnetic energy storage (SMES) systems? (Just give the options without explanation.)",
+    "input": "A: The need for extremely low operating temperatures requiring expensive cooling systems\nB: Difficulties in processing and manufacturing high-temperature superconducting materials\nC: Inability of SMES systems to provide rapid power dispatch during grid emergencies\nD: High standby energy losses due to inefficiencies in superconducting coils",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following technologies are primarily suited for rapid response, short-term grid services (less than 1 minute discharge)? (Just give the options without explanation.)",
+    "input": "A: Capacitors\nB: Superconducting Magnetic Energy Storage (SMES)\nC: Pumped Hydro Storage (PHS)\nD: Flywheels",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key parameters used to assess the performance of a power transmission plant in the context of reliability analysis? (Just give the options without explanation.)",
+    "input": "A: Energy Availability\nB: Forced Outage Rate\nC: Transmission Losses\nD: Power Factor",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following are advantages or key features of Light-Triggered Thyristors (LTTs) compared to Electrically Triggered Thyristors (ETTs)? (Just give the options without explanation.)",
+    "input": "A: LTTs can be triggered during a black start condition without the need for a high-voltage auxiliary power supply.\nB: LTTs require sophisticated electrical circuitry for gate triggering.\nC: LTTs offer enhanced di/dt capability, allowing them to handle higher current rates during turn-on.\nD: LTTs utilize optical gate pulses, eliminating the need for electrical triggering wires and reducing insulation complexity.",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following factors significantly influence the likelihood of commutation failure in HVDC systems? (Just give the options without explanation.)",
+    "input": "A: Leakage inductance of the AC/DC transformer\nB: Ratio of change in DC current\nC: Ambient temperature of the converter station\nD: Operational and critical turn-off angles",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key considerations when coordinating the control of FACTS devices and HVDC links in modern power systems? (Just give the options without explanation.)",
+    "input": "A: Managing reactive power exchange to maintain steady-state voltage control\nB: Improving the damping of electromechanical oscillations in the network\nC: Ensuring that all devices have sufficient mechanical inertia to stabilize post-fault oscillations\nD: Preventing undesirable control interactions through centralized or coordinated control strategies",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following factors can significantly impact the heat resistance between a semiconductor device and its heat sink? (Just give the options without explanation.)",
+    "input": "A: Compression strength applied to the device and heat sink\nB: Surface roughness at the interface\nC: Ambient temperature alone\nD: Gap-resistance due to materials or air gaps at the interface",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key steps in the selection and coordination of surge arresters for HVDC systems? (Just give the options without explanation.)",
+    "input": "A: Calculating the Maximum Continuous Operational Voltage (MCOV) of the valve\nB: Determining the Basic Insulation Level (BIL) and Basic Switching Level (BSL) of equipment\nC: Selecting surge arresters based solely on manufacturer recommendations without system analysis\nD: Calculating protection margins for lightning and switching surges",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key engineering challenges when designing multiterminal HVDC (MTDC) systems? (Just give the options without explanation.)",
+    "input": "A: Managing transient disturbances and ensuring stable power distribution across all terminals\nB: Designing thyristor valves and smoothing reactors to handle transient overcurrents due to inverter disparities\nC: Minimizing the impact of DC harmonics and ensuring effective DC filter and interference management\nD: Eliminating the need for redundancy in DC transmission lines to reduce costs",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are significant considerations when selecting between 2-level, 3-level diode-clamped, and 4-level floating-capacitor converter topologies for VSC transmission? (Just give the options without explanation.)",
+    "input": "A: Capital cost differences between converter types\nB: DC capacitor volume required to limit voltage ripple\nC: Commutation loop inductance and its impact on switching losses\nD: The color of the converter housing",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are key considerations in the design and modeling of Central Tower Receiver (CTR) solar power plants? (Just give the options without explanation.)",
+    "input": "A: Calculation of solar angles to optimize sunlight capture\nB: Modeling of heliostat field to direct sunlight to the receiver\nC: Incorporating wind turbine placement for hybrid generation\nD: Power block and steam generator modeling for efficient energy conversion",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key technologies or systems referenced in the context of renewable energy plant design and performance evaluation? (Just give the options without explanation.)",
+    "input": "A: Concentrated Solar Power (CSP)\nB: Photovoltaic (PV) Systems\nC: Combined Cycle Gas Turbines\nD: CTR (likely a Concentrated Thermal Receiver or related hybrid system)",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following technologies are commonly used to improve energy efficiency in commercial and industrial end-use applications? (Just give the options without explanation.)",
+    "input": "A: Variable speed AC drives\nB: Heat pumps\nC: Adjustable speed drives in commercial buildings\nD: Natural gas turbines",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical benefits of implementing energy conservation measures such as thermal storage in large buildings? (Just give the options without explanation.)",
+    "input": "A: Reducing peak electricity demand and deferring the need for new power plant construction\nB: Increasing the payback time for investors compared to traditional supply-side investments\nC: Lowering overall energy costs through improved efficiency\nD: Minimizing the amount of capital tied up in unnecessary energy infrastructure",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following have contributed to improved energy efficiency in refrigerators and automobiles in recent decades? (Just give the options without explanation.)",
+    "input": "A: Implementation of national standards for appliances and vehicles\nB: Adoption of advanced technologies reducing energy consumption in refrigerators\nC: Use of heavier materials to increase durability in automobile manufacturing\nD: Introduction of more forward speeds and lighter materials in cars",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are common types of customer incentives used in load control programs to encourage participation and manage energy demand? (Just give the options without explanation.)",
+    "input": "A: Monthly, seasonal, or annual bill credits\nB: Special rates such as demand charges or reduced kWh costs\nC: Free installation of renewable energy systems\nD: Time-of-use pricing for electric vehicle charging only",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following are valid types of cool storage systems used for managing building cooling loads? (Just give the options without explanation.)",
+    "input": "A: Static ice-on-coil systems\nB: Eutectic ice storage systems\nC: Clathrate ice storage systems\nD: Absorption chillers",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical advantages of implementing real time or peak day withdrawal tariffs in electricity markets? (Just give the options without explanation.)",
+    "input": "A: They incentivize customers to shift energy use away from peak periods, reducing overall peak demand.\nB: They provide customers with cost certainty by specifying the duration and timing of high-price periods.\nC: They eliminate the need for backup systems such as oil boilers in dual-energy setups.\nD: They allow utilities to more accurately reflect the marginal cost of electricity production during different periods.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are typical responsibilities of a regulated Transmission and Distribution (T&D) company in a deregulated energy marketplace? (Just give the options without explanation.)",
+    "input": "A: Building, maintaining, and operating the transmission and distribution systems\nB: Setting spot prices and communicating them to generators and customers\nC: Directly owning and operating all generating units in the region\nD: Collecting payments from users and paying generating companies",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are essential factors for the successful development of a cogeneration market in a country? (Just give the options without explanation.)",
+    "input": "A: Supportive government policies and transparent electricity purchase legislation\nB: Long-term, reliable gas supply contracts at predictable prices\nC: High industrial electricity rates that encourage self-generation\nD: Exclusive control of cogeneration projects by electric utilities",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are advantages of using cycloconverter-fed synchronous motor drives in high-power rolling mill applications? (Just give the options without explanation.)",
+    "input": "A: Lower rotor mass moment of inertia compared to DC drives\nB: No overload limitations present in DC machines\nC: Higher power factor than asynchronous motor drives\nD: Significantly reduced maintenance requirements compared to DC drives",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following factors contributed to the development and adoption of compact fluorescent lamps (CFLs) in the lighting industry? (Just give the options without explanation.)",
+    "input": "A: Energy crises in the 1970s prompting efficiency improvements\nB: Advances in electronic components enabling miniaturized control gear\nC: Increased demand for high-pressure mercury lamps\nD: New phosphor technologies allowing for higher ultraviolet radiation tolerance",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical advantages of using mechanical steam compression (MSC) in industrial drying processes? (Just give the options without explanation.)",
+    "input": "A: Enables energy recovery and recycling within a closed steam loop\nB: Allows the use of superheated steam as a drying fluid, improving process efficiency\nC: Reduces the need for high temperature differences compared to traditional drying\nD: Increases the thermal inertia of the system, resulting in longer processing times",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following factors are identified as key contributors to building cooling loads in energy simulations for south-facing spaces? (Just give the options without explanation.)",
+    "input": "A: Solar gain through windows and walls\nB: Internal gains from occupants and equipment\nC: Transmission losses through the building envelope\nD: Wind speed and direction around the building",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are key focus sectors identified by the International Energy Agency (IEA) for end-use technology research, development, demonstration, and dissemination (RDD&D) programme reviews? (Just give the options without explanation.)",
+    "input": "A: Buildings\nB: Industry\nC: Transportation\nD: Agriculture",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following challenges are commonly faced by developing countries in expanding their electricity sector? (Just give the options without explanation.)",
+    "input": "A: High capital investment requirements for generation, transmission, and distribution infrastructure\nB: Significant technical and non-technical electricity losses, including theft and faulty metering\nC: Consistently low electricity demand growth rates below population growth\nD: Competition for scarce financial resources with other critical sectors like health and education",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following factors contribute to increased electricity consumption by fans in Pakistan? (Just give the options without explanation.)",
+    "input": "A: Use of low-quality materials such as mild steel instead of silicon steel in fan motors\nB: Manufacturing fans with a lower number of poles, resulting in higher rotating speed\nC: Widespread use of evaporative coolers during the monsoon months\nD: High penetration of \"garage\" industries producing poor quality, inefficient fans",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key components of integrated resource planning (IRP) in the context of utility energy system planning? (Just give the options without explanation.)",
+    "input": "A: Consideration of both supply-side and demand-side options on an equal basis\nB: Exclusive focus on building new large-scale power plants\nC: Quantification and comparison of demand-side resources with conventional supply-side resources\nD: Year-by-year integration of resources over an extended planning horizon",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are primary hazards associated with geologic carbon sequestration (CCS) that must be assessed and managed at storage sites? (Just give the options without explanation.)",
+    "input": "A: Release of carbon dioxide to the earth's surface\nB: Degradation of groundwater quality due to CO2 leakage\nC: Crustal deformation and induced seismicity from injection processes\nD: Wind energy intermittency affecting grid stability",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are advantages of using the synchronous dq-reference frame for current control in line converters? (Just give the options without explanation.)",
+    "input": "A: It allows decoupled control of active and reactive power components.\nB: It eliminates the need for trigonometric function calculations in current transformations.\nC: It requires more frequent calculation of the modulus of the flux linkage vector compared to the αβ-frame.\nD: It simplifies the representation of the converter virtual flux linkage vector in certain reference frames.",
+    "output": "AD"
+  },
+  {
+    "instruction": "Which of the following are advantages of using a voltage feedback active filter in industrial or power distribution environments? (Just give the options without explanation.)",
+    "input": "A: The nonlinear load current does not need to be measured, simplifying installation site selection.\nB: A single voltage feedback active filter can compensate for several nonlinear loads located in different parts of the same secondary circuit.\nC: It eliminates the need for harmonic current transfer in power cables.\nD: It can be capacitively coupled directly to medium-voltage lines, potentially removing the need for a step-down transformer.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical challenges associated with implementing voltage feedback active filters in power systems? (Just give the options without explanation.)",
+    "input": "A: Ensuring robustness against variations in grid impedance\nB: Excluding background distortion from compensation\nC: Increasing the harmonic content of the power supply\nD: Maintaining stability under changing load conditions",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following factors are critical in minimizing the dc-link voltage requirement for an active filter compensating 5th and 7th harmonic voltages? (Just give the options without explanation.)",
+    "input": "A: The relative magnitudes of the 5th and 7th harmonic voltage components\nB: The orientation of the voltage ellipse's major axis with respect to the synchronous frame d-axis\nC: The existence of global maxima in the elliptical voltage trajectory\nD: The switching frequency of the inverter",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following renewable energy technologies are specifically referenced as requiring resource assessment and technology evaluation in modern energy planning? (Just give the options without explanation.)",
+    "input": "A: Solar power systems\nB: Hydropower systems\nC: Wind energy systems\nD: Nuclear power plants",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical challenges associated with using coconut residues (shells and husks) as bioenergy resources in Pacific island contexts? (Just give the options without explanation.)",
+    "input": "A: High moisture content affecting energy yield and combustion efficiency\nB: Difficulties in transporting charcoaled shells or husks over long distances due to material breakage\nC: Lack of suitable conversion technologies for solid biofuels\nD: Limited supply of residues unless supported by organized plantations or cooperatives",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following factors are essential for prioritizing potential small hydro power sites for further study? (Just give the options without explanation.)",
+    "input": "A: Watershed area and average rainfall\nB: Head (vertical drop) and distance between intake and turbine\nC: Proximity to load centers or grid connection points\nD: Minimum stream flow only, regardless of other factors",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following factors are essential for accurately calculating the annual energy output from a gasifier system? (Just give the options without explanation.)",
+    "input": "A: Potential hourly gas production rate\nB: Energy content per unit of gas\nC: Annual fuel input energy need\nD: Number of production hours per year",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key challenges associated with the adoption of solar water heating systems in rural areas? (Just give the options without explanation.)",
+    "input": "A: High up-front capital costs that deter household adoption\nB: Low efficiency of solar collector panels compared to diesel generators\nC: Requirement for outside funding to cover initial investment\nD: Inconsistent daily insolation values affecting annual energy output",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are commonly used financial metrics for evaluating smart or renewable energy project investments? (Just give the options without explanation.)",
+    "input": "A: Net Present Value (NPV)\nB: Benefit-Cost Ratio (B/C)\nC: Simple Payback Period\nD: Internal Rate of Return (IRR)",
+    "output": "ABCD"
+  },
+  {
+    "instruction": "Which of the following are practical benefits of consumer participation in energy management enabled by smart grid technologies? (Just give the options without explanation.)",
+    "input": "A: Consumers can reduce energy costs by allowing utilities to control certain appliances during peak demand.\nB: Consumers can offset their own energy demand using local generation sources like rooftop solar panels.\nC: Consumers are restricted from selling excess locally generated energy back to the grid.\nD: Consumers can participate in real-time energy markets as buyers or sellers.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key considerations for using wireless frequency bands in smart grid communication applications? (Just give the options without explanation.)",
+    "input": "A: Regulatory licensing and spectrum allocation by national agencies\nB: Channel bandwidth limitations to minimize interference\nC: Unrestricted transmission power to maximize coverage\nD: Capability of devices to switch channels in the presence of interference",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical methods utilities use to manage bandwidth requirements for substation video surveillance systems? (Just give the options without explanation.)",
+    "input": "A: Transmitting lower-resolution video under normal conditions and higher-resolution during incidents\nB: Storing video streams locally at substation DVRs and retrieving them as needed\nC: Using analog cameras exclusively to minimize data rates\nD: Applying standards-based video compression schemes such as MPEG-4 and M-JPEG",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following technologies are currently being deployed or introduced to enhance grid modernization and energy management in smart grids? (Just give the options without explanation.)",
+    "input": "A: Synchrophasors for wide area situational awareness\nB: Dynamic Line Rating (DLR) systems\nC: Plug-in electric vehicles (EVs)\nD: Flexible AC Transmission Systems (FACTS)",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key considerations unique to Smart Grid network design compared to traditional NSP (Network Service Provider) networks? (Just give the options without explanation.)",
+    "input": "A: Support for mission-critical applications like SCADA, teleprotection, and synchrophasors\nB: Emphasis on multimedia applications such as VoIP and video streaming\nC: Stringent requirements for reliability, security, and performance\nD: Use of application-specific traffic estimates for network sizing and planning",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are typical applications of Power Line Communication (PLC) technologies in smart energy systems? (Just give the options without explanation.)",
+    "input": "A: Neighborhood Area Networks (NAN)\nB: Teleprotection\nC: Electric Vehicle (EV) charging communication\nD: Weather forecasting",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following technologies contribute significantly to the increase in data volume and complexity in modern Smart Grids? (Just give the options without explanation.)",
+    "input": "A: Phasor Measurement Units (PMUs)\nB: Advanced Metering Infrastructure (AMI) smart meters\nC: Intelligent Electronic Devices (IEDs) for distribution automation\nD: Conventional electromechanical meters read manually",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are important considerations when designing and deploying communication networks for smart grid substations and control centers? (Just give the options without explanation.)",
+    "input": "A: Segregating LANs to allow placement of firewalls/UTM devices between substations and the WAN\nB: Ensuring network equipment at substations complies with standards such as IEEE 1613 and IEC 61850\nC: Ignoring IP addressing schemes since endpoints automatically configure themselves\nD: Providing component redundancy (e.g., dual power supplies, switching fabric) for network elements at substations and control centers",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are considered renewable or alternative energy sources that can contribute to cleaner power generation? (Just give the options without explanation.)",
+    "input": "A: Biogas\nB: Biomass\nC: Combined Heat and Power (CHP) using natural gas\nD: Large hydroelectric power plants",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following technologies or concepts are commonly used to enhance communication, monitoring, and control in smart energy systems? (Just give the options without explanation.)",
+    "input": "A: Supervisory control and data acquisition (SCADA)\nB: Radio frequency mesh (RF mesh) networks\nC: SynchroPhasors\nD: Pumped hydro storage",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following technologies are commonly used to improve the efficiency and performance of photovoltaic (PV) systems? (Just give the options without explanation.)",
+    "input": "A: Maximum Power Point Tracking (MPPT) algorithms\nB: Multijunction solar cells\nC: Thermoelectric generators\nD: Wind turbines",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following components in the SBRC microgrid are involved in voltage control or reactive power support? (Just give the options without explanation.)",
+    "input": "A: High-Bay solar-PV systems operating in local voltage control mode\nB: Capacitor banks operating in local voltage control mode\nC: Office solar-PV system providing reactive power support\nD: 4 kW solar-PVT systems acting as active power sources only",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical benefits of integrating high-voltage DC (HVDC) energy storage systems with advanced converter and inverter technology in national energy grids? (Just give the options without explanation.)",
+    "input": "A: Enables the appearance of a single, unified energy storage resource to the grid controller\nB: Allows for controlled dispatch of modified HV AC power to improve power factor and power quality\nC: Completely eliminates the need for traditional transformer technology in energy grids\nD: Facilitates energy storage and dispatch regardless of local weather conditions",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following factors are important when calculating the mutual inductance between a power line and a nearby telephone line? (Just give the options without explanation.)",
+    "input": "A: The distance between the two lines\nB: The current flowing through the power line\nC: The material of the telephone line insulation only\nD: The frequency of the current in the power line",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following factors are important for calculating the efficiency and voltage regulation of a long-distance three-phase transmission line? (Just give the options without explanation.)",
+    "input": "A: Line resistance and reactance\nB: Load power factor\nC: Capacitance of the transmission line\nD: Solar irradiance at the receiving end",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of load frequency control (LFC) in interconnected power systems, which of the following statements are correct? (Just give the options without explanation.)",
+    "input": "A: Stored kinetic energy in generators helps stabilize frequency during sudden load changes\nB: Laplace transforms are used to analyze and design dynamic responses in LFC systems\nC: The tie-line power flow depends on the difference in frequency deviations between interconnected areas\nD: The rated capacities of the interconnected areas have no impact on tie-line power flow equations",
+    "output": "ABC"
+  },
+  {
+    "instruction": "When calculating the disruptive critical voltage for a transmission line, which of the following corrections or factors are commonly applied to account for real-world conditions? (Just give the options without explanation.)",
+    "input": "A: Air density correction factor (δ) for altitude and weather variations\nB: Surface roughness factor (mo) for conductor condition\nC: Correction for conductor temperature\nD: Correction for conductor material resistivity",
+    "output": "AB"
+  },
+  {
+    "instruction": "In the context of economic dispatch with power losses, which of the following mathematical components are typically involved in the calculations? (Just give the options without explanation.)",
+    "input": "A: Incremental cost functions for each generator.\nB: Loss coefficients (such as B-coefficients) to model transmission losses.\nC: Fixed, non-iterative values for generator outputs.\nD: Power balance equations that include both demand and losses.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are best practices when hiring a contractor for home energy efficiency improvements? (Just give the options without explanation.)",
+    "input": "A: Asking for references and checking with the Better Business Bureau\nB: Focusing on local, licensed, and insured companies\nC: Accepting only verbal estimates to save time\nD: Obtaining multiple written bids with detailed information",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following forecasting techniques have been applied to short term electric load forecasting (STLF) and contributed to advancements in the field? (Just give the options without explanation.)",
+    "input": "A: Multiple linear regression (MLR) analysis\nB: Possibilistic linear regression\nC: Artificial neural networks (ANN)\nD: Blockchain-based consensus algorithms",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following types of measurements are collected by the deployed IoT devices in the school buildings? (Just give the options without explanation.)",
+    "input": "A: Apparent and average power consumption from three-phase electricity supplies\nB: Indoor environmental comfort parameters such as temperature, light, noise, and occupancy\nC: Outdoor atmospheric conditions including weather and air pollution levels\nD: Real-time solar photovoltaic (PV) generation output",
+    "output": "ABC"
+  },
+  {
+    "instruction": "What are some key challenges and considerations in implementing smart fabric-based controls and displays in astronaut EVA suits? (Just give the options without explanation.)",
+    "input": "A: Ensuring sufficient tactile feedback to prevent hand fatigue and usability issues\nB: Overcoming limitations in current flexible display technology to provide reliable wearable information systems\nC: Managing the increased mass and volume introduced by smart fabric components\nD: Conducting life-like usability evaluations to identify ergonomic and operational concerns",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are advantages of direct injection fuel systems in spark ignition (SI) engines compared to port fuel injection (PFI) systems? (Just give the options without explanation.)",
+    "input": "A: Direct injection allows for more precise control of the air/fuel ratio within the cylinder.\nB: Direct injection achieves higher injection pressures, resulting in more complete fuel-air mixing.\nC: Direct injection systems always produce a homogeneous air-fuel mixture before entering the cylinder.\nD: Direct injection enables specific mixing forms through injector, cylinder, and piston design, supporting higher combustion efficiency.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which factors must be considered by designers to optimize the performance and reliability of electric machines for traction applications? (Just give the options without explanation.)",
+    "input": "A: Selection of appropriate permanent magnet materials\nB: Mechanical design and integration with the powertrain\nC: Ignoring temperature effects to simplify the design process\nD: Structural integrity and lifetime targets",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of DC machine operation and design, which of the following factors influence the electromagnetic torque produced by the motor? (Just give the options without explanation.)",
+    "input": "A: The magnitude of the armature current.\nB: The field current (field flux strength).\nC: The resistance of the armature winding.\nD: The machine’s geometric parameters, such as the number of turns and rotor radius.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are true regarding the current and voltage constraints in the dq reference frame for inverter-fed electric machines? (Just give the options without explanation.)",
+    "input": "A: The maximum inverter current constraint forms a circular boundary in the dq current plane.\nB: The maximum inverter voltage constraint forms an elliptical boundary in the dq current plane, with its size varying inversely with speed.\nC: The maximum torque per ampere (MTPA) operating line always coincides with the maximum voltage ellipse.\nD: Multiple constant torque lines can be represented in the dq current plane for both positive and negative torque values.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of battery energy storage systems, which of the following parameters directly impact operational decision-making and economic evaluation? (Just give the options without explanation.)",
+    "input": "A: Depth of Discharge (DOD)\nB: Self-discharge rate\nC: Energy capacity cost\nD: Ampere hour (Ah) capacity",
+    "output": "ABCD"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the Recursive Least Squares (RLS) algorithm as used in online energy storage state or parameter estimation? (Just give the options without explanation.)",
+    "input": "A: It recursively updates parameter estimates over time using new measurement data.\nB: It requires an initial estimate of the parameters and their covariance matrix.\nC: It assumes process and measurement noise are normally distributed with known covariances.\nD: It uses a forgetting factor to reduce the influence of older data.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which strategies are commonly considered in hybrid vehicle operating strategies to balance efficiency, drivability, and component protection? (Just give the options without explanation.)",
+    "input": "A: Deciding when to use EV (engine-off) mode\nB: Implementing component protection strategies\nC: Maximizing engine speed at all times\nD: Trade-off between efficiency and noise, vibration, and harshness (NVH)",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical challenges or considerations in the widespread adoption of full hybrid vehicles? (Just give the options without explanation.)",
+    "input": "A: Increased manufacturing costs due to larger batteries and complex systems\nB: Limited all-electric range compared to plug-in hybrids or battery electric vehicles\nC: Requirement for integration of electric and mechanical power paths\nD: Inability to achieve any fuel economy gains over conventional vehicles",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following features distinguish PHEVs from other types of hybrid and conventional vehicles? (Just give the options without explanation.)",
+    "input": "A: External battery charging capability\nB: Regenerative braking functionality\nC: Exclusive reliance on mechanical power for propulsion\nD: Ability to operate in both electric-only and hybrid modes",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which factors are primary contributors to cell imbalance in battery packs used in applications like electric vehicles? (Just give the options without explanation.)",
+    "input": "A: Manufacturing variations between individual cells\nB: Differences in self-discharge rates among cells\nC: Variations in ambient humidity during operation\nD: Differences in charge acceptance and cell age",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of grid-tied public EV charging systems with centralized architecture, which of the following statements are correct? (Just give the options without explanation.)",
+    "input": "A: A single large transformer provides isolation for the entire charging facility\nB: Each charging station uses a nonisolated DC/DC converter for cost and efficiency\nC: The architecture prevents DC current injection into the grid\nD: Each parking station requires its own dedicated transformer for isolation",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which practical limitations or challenges arise when applying the unconstrained maximum power transfer theorem to real-world power systems? (Just give the options without explanation.)",
+    "input": "A: Transmission line resistance is often much smaller than reactance, leading to unrealistic results if ignored.\nB: Achieving maximum power transfer would require highly capacitive loads to match the typically inductive system impedance.\nC: The theorem assumes infinite current can be supplied, which is not feasible in actual systems due to equipment ratings.\nD: The unconstrained theorem always ensures system voltage stability regardless of load conditions.",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of community-based forestry and watershed management programs, which factors contribute to the effectiveness and sustainability of local user groups? (Just give the options without explanation.)",
+    "input": "A: Immediate returns from resource management, such as harvesting grass or medicinal herbs\nB: Clear consensus and agreement on the membership of user groups\nC: Exclusive focus on long-term, timber-based plantation investments\nD: Strong pre-existing social capital and shared interests among group members",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following challenges or trends are associated with the integration of clean coal technologies and carbon capture in power generation? (Just give the options without explanation.)",
+    "input": "A: Increased project costs and the need for revised financial planning\nB: Plant closures due to the inability to afford new environmental regulations\nC: The necessity for pipeline construction to transport captured CO₂ to storage sites\nD: The elimination of all fossil fuel use in power generation",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which technologies are commonly employed as peaking power plants to meet variable or high demand periods? (Just give the options without explanation.)",
+    "input": "A: Gas turbines\nB: Pumped storage hydroelectric plants\nC: Pulverized coal steam power plants\nD: Reciprocating engines",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical challenges addressed by advanced distribution network technologies in smart grids? (Just give the options without explanation.)",
+    "input": "A: Protection of electricity distribution networks\nB: Distribution system analysis and automation\nC: Economic evaluation of power projects\nD: Condition monitoring of rotating electrical machines",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following devices are typically used for series compensation to modify line reactance and increase the stability limit in power systems? (Just give the options without explanation.)",
+    "input": "A: Fixed series capacitor\nB: Thyristor-protected series capacitor\nC: Unified power flow controller\nD: Static var compensator",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of power system stability analysis, which of the following statements accurately describe approaches used for small and large disturbances? (Just give the options without explanation.)",
+    "input": "A: Small disturbance analysis typically uses linearized system equations\nB: Large disturbance analysis often requires solving a set of nonlinear differential equations numerically\nC: Both small and large disturbance analyses always use the same equilibrium point pre- and post-disturbance\nD: Small disturbance analysis is also known as small signal analysis",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following numerical integration techniques are commonly used to solve the differential equations in power system transient stability analysis? (Just give the options without explanation.)",
+    "input": "A: Euler's method\nB: Modified Euler–Cauchy method\nC: Trapezoidal method\nD: Finite element method",
+    "output": "ABC"
+  },
+  {
+    "instruction": "What are some demonstrated real-world applications of advanced control techniques and intelligent systems in energy systems? (Just give the options without explanation.)",
+    "input": "A: Implementation on multi-machine physical models\nB: Deployment in fully loaded thermal power plants\nC: Field service in hydro power stations\nD: Use exclusively in small-scale residential solar installations",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of wide-area power system monitoring and control, which of the following are practical benefits enabled by WAMS and PMUs? (Just give the options without explanation.)",
+    "input": "A: Real-time monitoring and control to enhance system stability\nB: Direct measurement of system state variables (magnitude and angle)\nC: Improved offline contingency analysis only, with no real-time application\nD: Enhanced ability to detect and damp electromechanical oscillations",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are examples of computational and artificial intelligence techniques applied in power system modeling and control? (Just give the options without explanation.)",
+    "input": "A: Fuzzy logic controllers (FLC)\nB: Neural networks (NN)\nC: Newton–Raphson method\nD: Adaptive neuro-fuzzy inference system (ANFIS)",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which statements accurately describe the use and adaptation of electric furnaces for melting brass and bronze compared to steel? (Just give the options without explanation.)",
+    "input": "A: Direct-arc furnaces are the most commonly used electric furnace type for steel and are adaptable to brass melting.\nB: Induction furnaces can be directly used for melting brass and bronze without modification.\nC: The lower melting points of brass and bronze make their melting simpler than steel in all respects.\nD: The physical properties of molten brass and steel require different furnace design considerations.",
+    "output": "AD"
+  },
+  {
+    "instruction": "Which of the following practical benefits or operational outcomes are associated with electric crucible furnaces used for melting metals such as silver and brass? (Just give the options without explanation.)",
+    "input": "A: High production rates once the furnace is fully heated\nB: Minimal metal losses during the melting process\nC: Ability to process multiple crucibles simultaneously\nD: Significant reduction in power consumption compared to traditional fuel-based furnaces",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which improvements were suggested to enhance the reliability and efficiency of the Hoskins electric furnace in brass foundry applications? (Just give the options without explanation.)",
+    "input": "A: Using resistor plates on all four sides of the crucible for more even heating\nB: Installing a larger, more accessible tap hole to manage crucible breakage\nC: Replacing the magnesite lining with a combination of carborundum and magnesite for increased durability\nD: Increasing the distance between the furnace and molding floor to reduce heat loss",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which challenges were encountered during the operation of the Hoskins overhead-resistor furnace as described in the tests? (Just give the options without explanation.)",
+    "input": "A: Metal loss due to cracks in the hearth\nB: Excessive pouring time due to lack of suitable ladles\nC: Carbon from the resistor damaging nickel-chromium alloys\nD: Insufficient supply of electrical power for furnace operation",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of electric furnaces in foundries, which factors impact the economic feasibility and operational efficiency of the Baily furnace? (Just give the options without explanation.)",
+    "input": "A: The cost of electricity and power contract structure (e.g., kilowatt-year vs. kilowatt-hour)\nB: The type of metal being melted and its associated metal loss rates\nC: The inclusion of interest and depreciation in cost calculations\nD: The operating schedule (continuous vs. intermittent operation)",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following design modifications or operational strategies were implemented or considered to improve the performance of induction furnaces in the described experiments? (Just give the options without explanation.)",
+    "input": "A: Changing the secondary coil from a circular to a flat tube to reduce magnesite leakage\nB: Using a tilting mechanism for easier removal of molten metal\nC: Constructing the resistor casing from blocks made of ground old crucibles bonded with fire clay and water glass\nD: Increasing the number of primary coils to boost furnace power",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical limitations or challenges associated with the use of Tesla circuit-based high-frequency induction furnaces for metal melting? (Just give the options without explanation.)",
+    "input": "A: High cost and limited scalability due to the expense of condensers\nB: Restriction on achievable temperatures based on the materials used in the focus inductor\nC: Inability to operate continuously without a cooling system for condensers\nD: Lack of commercial applicability for any metal melting applications",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which factors should be considered when selecting or designing refractory linings for electric furnaces? (Just give the options without explanation.)",
+    "input": "A: Heat conductivity of the lining material\nB: Frequency and duration of furnace operation\nC: Cost and availability of different refractory materials\nD: The color of the refractory bricks for aesthetic purposes",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are real-world examples of technologies or policy mechanisms that have improved energy efficiency in consumer or industrial sectors? (Just give the options without explanation.)",
+    "input": "A: Mandatory energy labelling for televisions leading to more efficient products in the market\nB: Technology procurement programs that increase the efficiency and reduce the cost of heat pumps\nC: Investment in separation membranes for the chemical and petrochemical industry as part of RD&D support\nD: Elimination of all government involvement in demonstration projects for industrial equipment",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following statements accurately reflect the investment costs for implementing energy-saving technologies in the chemical industry? (Just give the options without explanation.)",
+    "input": "A: Multi-pass regenerators, waste heat boilers, and insulation involve investment costs of around €25/GJ primary energy saved annually.\nB: Process integration via pinch analysis has implementation costs of approximately €20/GJ primary energy saved annually.\nC: Debottlenecking petrochemical plants requires investment costs of about €10/GJ primary energy saved annually.\nD: Advanced reformers for ammonia production involve the lowest investment costs among the listed measures.",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of selecting appropriate cooling methods for buildings, which factors must be considered to ensure energy efficiency and feasibility? (Just give the options without explanation.)",
+    "input": "A: The cooling power required relative to the building's demand\nB: The power and type of available heat sink (natural or artificial)\nC: Air quality, noise, and security issues affecting the use of window ventilation\nD: The color of the building’s exterior paint",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following organizations or frameworks play a significant role in the standardization and regulation of smart and renewable energy systems in Europe? (Just give the options without explanation.)",
+    "input": "A: Agency for the Cooperation of Energy Regulators (ACER)\nB: European Committee for Standardization (CEN)\nC: European Committee for Electro-technical Standardization (CENELEC)\nD: Federal Ministry for Environment, Nature Conservation and Nuclear Reactor Security (BMU)",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which technologies are suitable for long-term energy management and bulk energy storage in modern power systems? (Just give the options without explanation.)",
+    "input": "A: Pumped-storage hydroelectric power plants\nB: Compressed air energy storage\nC: High energy batteries\nD: High power flywheels",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of 110 kV meshed-operated networks in Europe, which of the following practices or technologies are implemented to ensure reliable protection and operation? (Just give the options without explanation.)",
+    "input": "A: Use of both main and back-up protection schemes for lines and substations\nB: Distance protection with tele-protection methods for simultaneous tripping at both line ends\nC: Application of autoreclosers on both overhead and underground cable lines\nD: Redundant communication links and separate instrument transformers for main and back-up protection devices",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following practices are recommended for improving the reliability and security of power transmission systems? (Just give the options without explanation.)",
+    "input": "A: Regular archiving and approval of protection settings as per substation documentation\nB: Performing network security calculations before operational actions\nC: Avoiding operations that compromise N-1 security\nD: Increasing the number of interconnections regardless of system limits",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are key features or practices in the Day-Ahead Congestion Forecast (DACF) process for interconnected transmission systems in Europe? (Just give the options without explanation.)",
+    "input": "A: Use of reference days with similar weather and load conditions for prediction\nB: Sharing predicted data sets among all TSOs via a common server and standardized data formats\nC: Exclusive focus on transmission networks, with no consideration for distribution network stress\nD: Balancing load and generation by proportionally adjusting loads at all network nodes",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which challenges or opportunities are associated with the management of reactive power and voltage control in modern distribution networks? (Just give the options without explanation.)",
+    "input": "A: Wind farms connected via long medium-voltage cables may inject excessive reactive power, causing additional network charges\nB: Reactive power management can reduce earnings for renewable generators if not properly controlled\nC: Voltage control currently offers significant direct economic benefits for network operators\nD: Controlling reactive power can improve voltage quality and defer costly grid reinforcement",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of IEC 60870-5-101 protocol, which features contribute to the security and reliability of data transmission between control centers and substations? (Just give the options without explanation.)",
+    "input": "A: Use of a check sum and parity bits for error detection\nB: Assignment of identical address numbers at both master and slave stations\nC: Inclusion of a time stamp with quality identifier bits\nD: Use of wireless communication exclusively",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following technologies or strategies have been applied to improve performance and energy efficiency in fog-IoT environments? (Just give the options without explanation.)",
+    "input": "A: Blockchain for enhancing data security and authentication\nB: Dynamic frequency scaling for energy-aware operation\nC: Use of iFogSim simulator for performance evaluation\nD: Deployment of only cloud computing resources without fog integration",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical applications of Laplace transforms and Fourier series in analyzing electrical systems? (Just give the options without explanation.)",
+    "input": "A: Solving initial value problems in circuit transients using algebraic methods.\nB: Decomposing periodic signals into sums of sinusoidal components for signal analysis.\nC: Calculating the instantaneous power delivered by a DC source.\nD: Determining the real and reactive power in AC power systems using phasor analysis.",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which advancements have been enabled by the application of semiconductors in automotive systems? (Just give the options without explanation.)",
+    "input": "A: Replacement of mechanical regulators with transistor-based electronic regulators\nB: Introduction of microprocessor-controlled engine functions such as spark and EGR control\nC: Elimination of the need for alternators in automotive electrical systems\nD: Transition to higher voltage electrical distribution systems (e.g., 42V PowerNet) for improved efficiency",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of aircraft electrical power systems, which of the following are practical benefits of implementing intelligent remote modules and power management systems (PMS)? (Just give the options without explanation.)",
+    "input": "A: Reduction in the number and length of wire harnesses\nB: Increased peak power demand\nC: Time phasing of load duty-cycles to optimize power usage\nD: Enhanced battery management and charging strategies",
+    "output": "ACD"
+  },
+  {
+    "instruction": "In the context of the generalized state space averaging method for power electronic systems, which of the following statements are correct? (Just give the options without explanation.)",
+    "input": "A: The method can improve accuracy by including more terms in the Fourier series representation\nB: The switching period in DC/DC converters is a critical parameter for selecting the modeling interval\nC: Only the DC component of state variables is ever considered for accurate modeling\nD: The method allows for the modeling of both DC and oscillating components of state variables",
+    "output": "ABD"
+  },
+  {
+    "instruction": "When determining small-signal stability in power electronic systems, which of the following approaches or considerations are recommended for improved accuracy? (Just give the options without explanation.)",
+    "input": "A: Using actual measured impedance data from system components rather than relying solely on simulation models.\nB: Applying the Nyquist stability criterion to the ratio of source output impedance to load input impedance.\nC: Relying exclusively on simulation models without considering real-world measurements.\nD: Calculating total parallel input impedance of loads and cabling as seen by the main bus.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of hybrid fuel cell/battery power systems, which of the following statements are true regarding system modeling and control? (Just give the options without explanation.)",
+    "input": "A: The fuel reformer is represented by a first-order time-delay circuit with a relatively long time-constant.\nB: The fuel cell stack is modeled with a shorter time-constant compared to the reformer.\nC: Fast system response can be achieved solely by controlling the fuel input.\nD: DC/DC or DC/AC converters can utilize their short time-constants for rapid control of system output.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which characteristics make SRMs particularly suitable for propulsion systems and traction applications? (Just give the options without explanation.)",
+    "input": "A: Ability to maintain constant torque from zero to rated speed, and constant power above rated speed\nB: High rotor inertia, which limits acceleration capabilities\nC: Simple construction and low rotor inertia, enabling rapid acceleration and extremely high speed operation\nD: Requirement for more than one switch per phase, increasing circuit complexity",
+    "output": "AC"
+  },
+  {
+    "instruction": "Which natural features contribute to the mitigation of coastal hazards by dissipating wave energy and providing barriers against flooding? (Just give the options without explanation.)",
+    "input": "A: Offshore seabeds and sandbanks\nB: Sand dunes and coastal vegetation\nC: Armoured sloping revetments and concrete seawalls\nD: Coral reefs",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of coastal ecosystem services, which of the following statements about seagrass meadows are supported by scientific modelling? (Just give the options without explanation.)",
+    "input": "A: Seagrass meadows dissipate wave energy, protecting beaches behind them\nB: The protective effect of seagrass increases with higher meadow density\nC: Seagrass meadows increase offshore sediment transport, leading to beach loss\nD: Bed shear stresses are significantly influenced by the presence of seagrass",
+    "output": "ABD"
+  },
+  {
+    "instruction": "What are some challenges faced by local communities in maintaining environmental projects such as mangrove plantations in Tonga? (Just give the options without explanation.)",
+    "input": "A: Insufficient local participation and awareness\nB: Financial barriers to proper waste disposal services\nC: Increased government funding for environmental initiatives\nD: Changing household waste composition leading to more non-biodegradable rubbish",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which statements accurately describe the relationship between vegetation cover and slope stability in mountainous regions like Nepal? (Just give the options without explanation.)",
+    "input": "A: Forested slopes generally experience fewer shallow landslides compared to grassy or barren slopes\nB: Absence of vegetation cover increases susceptibility to rainfall-triggered landslides\nC: Conversion of forests to agricultural land typically reduces erosion and landslide risk\nD: Vegetation type and soil depth can influence the effectiveness of slope stabilization",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical advantages that protected areas offer for disaster risk reduction and ecosystem management? (Just give the options without explanation.)",
+    "input": "A: Established monitoring systems and baseline data sources\nB: Disciplined and trained staff able to respond to emergencies\nC: Guaranteed access to unlimited funding from international donors\nD: Existing infrastructure and management expertise that can be leveraged for disaster mitigation",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are significant engineering challenges in the design and operation of large wind turbines? (Just give the options without explanation.)",
+    "input": "A: Protecting turbines from damage caused by infrequent but extremely strong winds\nB: Managing fatigue damage to blades and drive trains due to frequent stress cycles\nC: Reducing the kinetic energy stored in wind to minimize friction losses\nD: Limiting torque on the main shaft as turbine size increases",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical challenges or considerations when integrating renewable energy sources into electricity grids? (Just give the options without explanation.)",
+    "input": "A: The intermittent nature of renewable energy sources often requires effective energy storage solutions.\nB: Distributed renewable sources can reduce vulnerability to disruptions in centralised transmission systems.\nC: The use of high-voltage power lines is always required, regardless of the level of decentralisation.\nD: Environmental downsides of storage technologies, such as battery disposal, must be managed.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key advantages of implementing pyrolysis and gasification systems for industrial energy supply in regions with abundant wood waste? (Just give the options without explanation.)",
+    "input": "A: Reduction in reliance on imported petroleum products\nB: Utilization of locally available renewable resources\nC: Elimination of all greenhouse gas emissions\nD: Potential for cost-competitive energy production compared to conventional fuels",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are true regarding the use of cryogenic technologies in industrial and medical applications? (Just give the options without explanation.)",
+    "input": "A: Liquid nitrogen is used for deep freezing in both manufacturing and medical procedures.\nB: Cryosurgery utilizes cryogenic methods for treating various medical conditions across multiple specialties.\nC: Cryogenic cooling is primarily limited to the preservation of food and has little impact on manufacturing processes.\nD: Cryogenic processes can facilitate recycling by making materials like rubber brittle for easier processing.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are advantages of paper-based, bacteria-powered batteries for point-of-care (POC) diagnostic applications in resource-limited regions? (Just give the options without explanation.)",
+    "input": "A: Activation using readily available biological fluids such as saliva\nB: Long-term storage capability due to freeze-dried exoelectrogenic cells\nC: High power output suitable for large-scale electronic devices\nD: Low production cost and minimal environmental impact compared to conventional batteries",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are potential challenges associated with low Short Circuit Ratio (SCR) AC systems connected to HVDC converter stations? (Just give the options without explanation.)",
+    "input": "A: Higher Temporary Overvoltages (TOV) exceeding 1.4 pu\nB: Increased risk of low-order harmonic resonance amplification\nC: Difficulty maintaining power transfer due to frequent system instability\nD: Greater sensitivity to transformer core saturation and associated harmonics",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following measures are commonly used to protect HVDC cables from overvoltage stresses caused by lightning surges? (Just give the options without explanation.)",
+    "input": "A: Installation of overhead ground wires or lightning rods at cable terminations\nB: Use of metal oxide surge arresters at cable terminals\nC: Increasing the cable length to absorb more surge energy\nD: Low-resistance grounding of tower footings near cable transitions",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are benefits of implementing a gamma balancing circuit in HVDC converter valve control systems? (Just give the options without explanation.)",
+    "input": "A: Reduction of harmonics during steady-state operation\nB: Improved voltage balancing across all converter valves\nC: Enhanced suppression of commutation failures\nD: Increased transformer saturation",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are advantages of using HVDC (High Voltage Direct Current) transmission lines for long-distance power transfer? (Just give the options without explanation.)",
+    "input": "A: Reduced transmission losses over long distances\nB: Ability to interconnect asynchronous power grids\nC: Lower installation cost compared to all AC systems for short distances\nD: Enhanced control over power flow between regions",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are critical input parameters required for the optimal design of a Central Tower Receiver (CTR) solar power plant at a specific site? (Just give the options without explanation.)",
+    "input": "A: Site latitude and longitude\nB: Hourly direct normal irradiance (DNI) data\nC: Monthly varying load demand profiles\nD: Local wind speed data",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are characteristics of a Radial Basis Function (RBF) neural network? (Just give the options without explanation.)",
+    "input": "A: It consists of an input layer, a single hidden layer with radial basis functions, and an output layer.\nB: The hidden layer uses a Gaussian transfer function to process inputs.\nC: The output layer typically uses a nonlinear activation function.\nD: It is commonly used for nonlinear system identification tasks.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the roles and characteristics of baseload, intermediate load, and peak load power plants in electric utility systems? (Just give the options without explanation.)",
+    "input": "A: Baseload plants are designed for continuous operation using low-cost fuels but have high capital costs.\nB: Intermediate load plants operate only during rare emergency conditions and have the lowest operating costs.\nC: Peak load plants are used during periods of highest demand, have low capital costs, and rely on fuels like oil or natural gas for quick start capability.\nD: Economic dispatch procedures prioritize bringing online power plants in order of increasing operating cost to minimize electricity delivery cost.",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are practical strategies to address mismatches between heat pump capacity and heating system requirements in building heating systems? (Just give the options without explanation.)",
+    "input": "A: Using a hot water storage buffer to hydraulically decouple the heat pump from the distribution system\nB: Implementing continuous capacity modulation in heat pumps\nC: Increasing the temperature setpoint of the heat pump to compensate for system mismatch\nD: Installing an oversized heat pump to ensure sufficient heating under all conditions",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the practical implications of harmonic sequence decomposition in power systems with nonlinear loads? (Just give the options without explanation.)",
+    "input": "A: Positive and negative sequence harmonics can be separately identified, enabling targeted mitigation strategies for power quality improvement.\nB: The presence of uncharacteristic harmonics can indicate asymmetries in phase currents, which may affect system stability and equipment performance.\nC: Harmonic decomposition is only relevant for purely sinusoidal, balanced loads and does not apply to systems with nonlinear loads.\nD: Decomposing currents into harmonic sequences helps in understanding the contributions of different harmonics to both active and reactive power flows.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical methods for compensating voltage unsymmetricity and harmonics in uninterruptible power supply (UPS) systems? (Just give the options without explanation.)",
+    "input": "A: Space-vector and repetitive-control-based control methods\nB: Selective harmonic voltage compensation targeting specific voltage sequences\nC: Use of delta/wye transformers to support single-phase loads\nD: Direct torque control (DTC) originally developed for induction motor control",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are key benefits of using voltage feedback active filters in power systems? (Just give the options without explanation.)",
+    "input": "A: They can mitigate voltage distortion without needing to measure the current of local nonlinear loads.\nB: They require precise identification of the source of harmonic distortion before operation.\nC: They provide flexibility in the placement of filter units within industrial environments.\nD: They treat both local and background voltage distortions equally for compensation.",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are considered important when conducting an economic analysis of renewable energy projects to ensure both private and social impacts are accounted for? (Just give the options without explanation.)",
+    "input": "A: Incorporating shadow prices to reflect social values not captured by market prices\nB: Monetizing in-kind transfers such as labor exchanges or use of agricultural residues\nC: Ignoring environmental costs since they are often paid by public organizations\nD: Applying weighting to benefit and cost streams to address nonmonetary objectives like equity",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical considerations when using biogas as a domestic energy source? (Just give the options without explanation.)",
+    "input": "A: Gas consumption rates vary depending on the appliance and its size (e.g., burner ring size, number of mantles in lighting).\nB: Biogas can be used to generate electricity, but requires a higher pressure than for cooking or lighting.\nC: The daily biogas consumption for a family depends on the number of people and their energy needs.\nD: Biogas volume required for engine operation is affected by the rated horsepower and efficiency loss when using biogas.",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the behavior of an ideal inductor connected to an AC voltage source? (Just give the options without explanation.)",
+    "input": "A: The instantaneous power delivered to the inductor varies sinusoidally at twice the supply frequency.\nB: The average power consumed by the inductor over one full cycle is zero.\nC: The current through the inductor is always in phase with the applied voltage.\nD: The inductor dissipates energy as heat during each AC cycle.",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following applications in smart grids require very low end-to-end communication delays (10 ms or less) to ensure reliable grid operation? (Just give the options without explanation.)",
+    "input": "A: High-speed protection information\nB: Load shedding for underfrequency\nC: Breaker reclosers\nD: PMU measurements (class A) used for protection function",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are key challenges associated with implementing Dynamic Line Rating (DLR) in modern power systems? (Just give the options without explanation.)",
+    "input": "A: High cost and time requirements for network expansion as a long-term congestion solution\nB: Inherent uncertainty in real-time line capacity estimation\nC: Lack of sufficient real-time monitoring and data acquisition technologies\nD: Overreliance on fixed line ratings that may not reflect actual operating conditions",
+    "output": "ABCD"
+  },
+  {
+    "instruction": "Which of the following statements correctly describe the relationship between load factor (LF) and loss factor (LLF) in power systems? (Just give the options without explanation.)",
+    "input": "A: When off-peak load is zero, the load factor equals the loss factor.\nB: For a very short-lasting peak, the loss factor approaches the square of the load factor (LLF ≈ (LF)^2).\nC: In all cases, the loss factor is always greater than the load factor.\nD: For a steady load (little difference between peak and off-peak), the loss factor approaches the load factor.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are true regarding the construction and operation of large synchronous generators used in power systems? (Just give the options without explanation.)",
+    "input": "A: Cylindrical (round) rotor synchronous generators are typically used in thermal power plants driven by steam turbines.\nB: Salient-pole rotor synchronous generators are commonly used in hydroelectric power stations driven by hydraulic turbines.\nC: The field winding in a synchronous generator is placed on the stator and requires a large portion of the machine rating for excitation.\nD: Damper windings are included on the rotor to assist with certain operational aspects.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of smart grid power flow analysis, which of the following practices contribute to maintaining voltage stability at regulated buses? (Just give the options without explanation.)",
+    "input": "A: Specifying voltage magnitude and real power at certain buses (PV buses)\nB: Adjusting reactive power output as needed to maintain set voltage levels\nC: Ignoring the effects of transmission line losses\nD: Iteratively updating bus voltages and angles during power flow calculations",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of transient stability analysis for synchronous generators, which of the following statements are correct? (Just give the options without explanation.)",
+    "input": "A: The power angle cannot change instantaneously due to the generator's rotor inertia.\nB: Some power can still be transmitted during a fault because generator terminal voltage does not drop to zero.\nC: The system remains stable for any clearing time, regardless of the clearing angle.\nD: Area-based methods (equal area criterion) are used to determine stability following a disturbance.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the operation and benefits of heat pump systems for home heating and cooling? (Just give the options without explanation.)",
+    "input": "A: Heat pumps can provide both heating and cooling functions in a home\nB: Heat pumps are most efficient in moderate climates\nC: Heat pumps can reduce electricity use for heating by 30% to 40%\nD: Heat pumps generate heat through combustion of fossil fuels",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following are practical methods to reduce air leakage and improve insulation in homes? (Just give the options without explanation.)",
+    "input": "A: Installing storm windows over single-pane windows\nB: Sealing holes and gaps around outlets and switch plates on exterior walls\nC: Keeping the fireplace flue damper open when not in use\nD: Using heavy-duty clear plastic sheets to cover window frames during winter",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of comparing Generalized Linear Models (GLMs) and Possibilistic Linear Models (PLMs) for load forecasting, which of the following are true? (Just give the options without explanation.)",
+    "input": "A: GLMs generally outperform PLMs in the presented load forecasting cases.\nB: PLMs become more accurate as the underlying GLM becomes more accurate.\nC: GLMs are more sensitive to outliers than PLMs.\nD: When a system is well understood with minimal observation error, the forecasts of GLMs and PLMs are likely to be very similar.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following are practical challenges faced by contemporary electrical grids as the share of renewable energy and DC loads increases? (Just give the options without explanation.)",
+    "input": "A: The need for multiple stages of power conversion between AC and DC\nB: Increased risk of harmonics and mains interference from inverters\nC: Limited modularity and safety in DC systems\nD: Decreased overall system efficiency due to frequent AC-DC-AC conversions",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the described hybrid battery/UC energy storage system, which of the following operational scenarios utilize the buck mode of operation? (Just give the options without explanation.)",
+    "input": "A: Plug-in AC/DC charging of the battery and UC from the grid\nB: Regenerative braking energy transfer to the battery and UC\nC: Discharging the battery and UC to the DC link during vehicle acceleration\nD: Discharging the UC to the battery during idle periods",
+    "output": "AB"
+  },
+  {
+    "instruction": "Which of the following are true regarding the classification and capabilities of mild hybrid and full hybrid electric vehicles? (Just give the options without explanation.)",
+    "input": "A: Mild hybrids use an electric motor/generator to provide limited propulsion assist and require higher voltage systems than basic stop/start systems.\nB: Full hybrids can operate in electric-only mode, with traction motors rated up to 80 kW and larger battery packs than mild hybrids.\nC: Mild hybrids are always classified as high voltage systems according to United Nations regulations.\nD: Full hybrids’ electric propulsion is limited by the amount of energy recaptured during braking or generated by the engine.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which statements accurately describe the interleaved boost PFC converter topology for power factor correction? (Just give the options without explanation.)",
+    "input": "A: It uses two boost converters in parallel, operating 180° out of phase\nB: It increases input current ripple compared to a single boost converter\nC: It helps reduce input electromagnetic interference (EMI)\nD: It enables the use of paralleled semiconductors for higher power handling",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are practical impacts of increasing battery energy capacity in PHEVs? (Just give the options without explanation.)",
+    "input": "A: Extends the all-electric driving range, reducing reliance on fossil fuels\nB: Increases the size and weight of the battery, potentially reducing fuel economy and dynamic performance\nC: Eliminates the need for regenerative braking systems\nD: Provides more energy for accessory systems during all-electric operation",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of power system stability, which of the following statements accurately describe the behavior of the rotor and system during and after a fault? (Just give the options without explanation.)",
+    "input": "A: The rotor angle continues to increase after fault clearing until the speed deviation becomes zero\nB: Positive accelerating power (Pa > 0) causes the rotor to speed up and the rotor angle to increase\nC: After the fault is cleared, negative accelerating power (Pa < 0) causes the rotor to slow down, but the angle may still increase temporarily\nD: The system always returns immediately to its original operating point after a disturbance if the fault is cleared",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe characteristics or applications of flywheel energy storage systems? (Just give the options without explanation.)",
+    "input": "A: They provide fast access to stored energy and can be charged/discharged rapidly\nB: They have low maintenance costs and produce no carbon emissions during operation\nC: They have higher capacity than pumped hydroelectric storage systems\nD: They are suitable for maintaining power quality by regulating frequency and providing protection against transient interruptions",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of improving regression tree methods for load forecasting, which of the following ensemble techniques are used to enhance accuracy and reduce overfitting? (Just give the options without explanation.)",
+    "input": "A: Bagging (Bootstrap Aggregating)\nB: Random Forest\nC: Boosted Trees\nD: Economic Dispatch Optimization",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of evaluating forecasting models for energy load prediction, which of the following statements are true about the use of Mean Absolute Percentage Error (MAPE)? (Just give the options without explanation.)",
+    "input": "A: MAPE provides a normalized measure of prediction error relative to actual values\nB: MAPE can be used to compare model performance across different months or seasons\nC: MAPE is unaffected by the scale or magnitude of the actual energy load values\nD: MAPE may become unreliable when actual values are close to zero",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which operational or design features contribute to the efficiency and longevity of Rennerfelt electric furnaces? (Just give the options without explanation.)",
+    "input": "A: Continuous 24-hour operation without frequent cooling\nB: Use of silica brick and ganister for furnace lining\nC: Open furnace design to facilitate rapid heat loss\nD: Automatic electrode control for side electrodes",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe current practices and challenges in the steam cracking process within the petrochemical industry? (Just give the options without explanation.)",
+    "input": "A: Steam cracking uses oil and gas feedstocks to produce monomers such as ethylene and propylene\nB: The majority of feedstocks for steam cracking are derived from renewable sources\nC: Steam cracking accounts for a significant portion of the final energy use in the chemical and petrochemical industry\nD: Energy intensity in steam cracking is often measured in GJ per tonne of High Value Chemicals (HVC)",
+    "output": "ACD"
+  },
+  {
+    "instruction": "Which of the following are practical challenges or trends related to calculating primary energy use and carbon emissions factors for electricity in buildings with on-site renewable generation? (Just give the options without explanation.)",
+    "input": "A: Hourly primary energy and carbon emissions factors provide more accurate assessments but are not widely used due to limited data availability.\nB: Annual average factors are commonly applied in LCA methodologies because of regulatory and data constraints.\nC: Seasonal or hourly fluctuating energy prices are already common, but similar temporal variation in primary energy and carbon factors is not standard practice.\nD: All countries currently provide publicly available hourly production mix data for electricity, enabling precise matching with building energy consumption.",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which statements accurately describe the rebound effect in the context of energy efficiency improvements in buildings? (Just give the options without explanation.)",
+    "input": "A: It can lead to increased energy consumption if cost savings are spent on additional goods and services\nB: It only occurs when energy efficiency measures fail to reduce costs\nC: It includes both direct increases in energy service consumption and indirect increases from spending savings elsewhere\nD: It is always considered a negative outcome for economic growth",
+    "output": "AC"
+  },
+  {
+    "instruction": "Which of the following are identified as effective strategies to increase the efficiency of electricity generation beyond 60%? (Just give the options without explanation.)",
+    "input": "A: Technological improvement of generation equipment\nB: Use of combined cycle (CC) power plants\nC: Implementation of cogeneration of heat and power (CHP)\nD: Exclusive reliance on fossil fuel combustion without recovery of waste heat",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of MV/LV transformer terminals in secondary distribution networks, which of the following statements are accurate? (Just give the options without explanation.)",
+    "input": "A: Ring main terminals often use load break switches instead of circuit breakers for economic reasons\nB: Short circuit indicators are used on MV feeders to help locate faults along the feeder\nC: Oil immersed and cast resin transformers are both used depending on installation requirements\nD: All MV/LV transformers above 2000 kVA require circuit breakers for protection",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the process and objectives of peak fitting in energy spectrum analysis? (Just give the options without explanation.)",
+    "input": "A: The measured spectrum is compared to a convolved version of the intrinsic spectrum to determine the instrument’s energy resolution.\nB: The fitting procedure typically uses a weighted least-squares method, where weights are based on the statistical uncertainty in each histogram bin.\nC: The instrument response is assumed to have a Lorentzian shape for convolution with the intrinsic spectrum.\nD: The energy resolution obtained from the fit provides a basis for comparing the performance of different spectrometers.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe the role of XGBoost in cyber-attack detection for IIoT systems? (Just give the options without explanation.)",
+    "input": "A: XGBoost is an ensemble learning method based on decision trees that improves prediction accuracy.\nB: XGBoost assigns weights to incorrectly predicted features to focus learning in subsequent trees.\nC: XGBoost is primarily used for data normalization and scaling.\nD: XGBoost builds models sequentially, adding new trees to minimize prediction errors.",
+    "output": "ABD"
+  },
+  {
+    "instruction": "Which of the following statements accurately describe practical challenges and solutions associated with single-phase DC/AC inverters in smart energy systems? (Just give the options without explanation.)",
+    "input": "A: The output voltage waveform of practical inverters contains harmonics, which can degrade power quality\nB: Total Harmonic Distortion (THD) provides a measure of how close the output waveform is to its fundamental frequency\nC: Output filters are used to improve the quality of inverter output by reducing unwanted harmonics\nD: The output voltage of practical inverters is always purely sinusoidal and free from distortion",
+    "output": "ABC"
+  },
+  {
+    "instruction": "In the context of Switched Reluctance Machines (SRM), which of the following characteristics contribute to their suitability for high-speed and high-reliability applications? (Just give the options without explanation.)",
+    "input": "A: Rotor made of stacks of iron without coils or magnets\nB: Capability to operate with wide constant power speed ratios\nC: High sensitivity to phase-to-phase faults due to interconnected windings\nD: Ability to function under certain fault conditions with reduced performance",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of in-vehicle networking, which of the following statements accurately describe the use of Bluetooth technology? (Just give the options without explanation.)",
+    "input": "A: Bluetooth can serve as a backbone to integrate multiple in-vehicle networks with different data rates.\nB: Bluetooth is suitable for both multimedia networking and certain control applications in vehicles.\nC: Bluetooth enables wireless connectivity between external communication networks and in-car applications.\nD: Bluetooth is the only viable solution for real-time control of safety-critical vehicle systems.",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which of the following technologies or design features contribute to the performance improvements of axial flux permanent magnet (PM) motors in propulsion systems? (Just give the options without explanation.)",
+    "input": "A: Slotless toroidal wound strip iron core\nB: Multistage configuration for compactness\nC: Use of radial flux as the primary flux path\nD: Series or parallel connection of stator windings with separate converters",
+    "output": "ABD"
+  },
+  {
+    "instruction": "In the context of DC/DC converter systems supplying mixed load types, which of the following are true regarding stability conditions and control strategies? (Just give the options without explanation.)",
+    "input": "A: Stability can be achieved if the total power of constant power loads is less than that of constant voltage loads.\nB: Conventional controllers, such as PI controllers, are sufficient for stability when the stability condition is met.\nC: The use of state space averaging enables the derivation of small-signal transfer functions for converter analysis.\nD: Stability is independent of the ratio between constant power and constant voltage loads.",
+    "output": "ABC"
+  },
+  {
+    "instruction": "Which approaches are recommended to improve integration between disaster risk reduction (DRR), climate change adaptation (CCA), and ecosystem management? (Just give the options without explanation.)",
+    "input": "A: Establishing national or regional risk reduction platforms that involve multiple sectors\nB: Limiting risk assessments to only environmental impacts, excluding disaster considerations\nC: Including both environmental policy experts and DRR specialists at high levels of decision-making\nD: Promoting cross-sectoral and interdisciplinary collaboration in planning and governance",
+    "output": "ACD"
+  }
+]
