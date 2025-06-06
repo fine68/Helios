@@ -14,7 +14,7 @@ Owing to GitHub’s repository-size constraints, we provide here only a represen
 ![The multi-agent collaboration framework EnerSys provides the data required for Helios' three-stage training, including pre-training data (EnerBase), instruction tuning data (EnerInstruct), and RLHF data (EnerReinforce).](./images/Helios.png)
 ## Table of Contents
 - **Agent**  
-  Containing the Parsing Agent、Distiller Agent、Expert Agent、Check Agent ([Check Agent User Guide](Agent/Check_Agent/Guide for Check_Agent.md)) proposed in this study.
+  Containing the Parsing Agent, Distiller Agent, Expert Agent, Check Agent ([Check Agent User Guide](Agent/Check_Agent/Guide for Check_Agent.md)) proposed in this study.
 - **Data**  
   Includes EnerBase for the pre-training stage, EnerInstruct for the instruction tuning stage, and EnerReinforce for the RLHF stage.
 - **EnerBench**  
